@@ -1,0 +1,353 @@
+id,region,year,manufacturer,model,odometer,title_status,transmission,VIN,state,lat,long
+7308950198,huntsville / decatur,2012.0,honda,accord lx,174000.0,clean,automatic,,al,34.7448,-86.6704
+7303542730,huntsville / decatur,2012.0,honda,accord ex-l sedan 4d,112988.0,rebuilt,automatic,,al,34.724654,-86.627534
+7314616669,tuscaloosa,2012.0,honda,accord,95000.0,clean,automatic,,al,33.1456,-87.4545
+7314316543,tucson,2012.0,honda,accord,84695.0,clean,automatic,,az,32.271329,-110.993712
+7314113948,tucson,2012.0,honda,accord,132575.0,clean,automatic,1HGCP2F38CA238524,az,32.25166,-110.960537
+7312011242,tucson,2012.0,honda,accord crosstour ex-l,109180.0,clean,automatic,,az,32.267941,-110.977848
+7311560266,fayetteville,2012.0,honda,accord se,85765.0,clean,automatic,1HGCP2F69CA160457,ar,36.093598,-94.19146
+7310027754,fayetteville,2012.0,honda,accord se,85765.0,clean,automatic,1HGCP2F69CA160457,ar,36.093598,-94.19146
+7307710990,fayetteville,2012.0,honda,accord se,85765.0,clean,automatic,1HGCP2F69CA160457,ar,36.093598,-94.19146
+7309467125,fort smith,2012.0,honda,accord se,85765.0,clean,automatic,1HGCP2F69CA160457,ar,36.093598,-94.19146
+7315286379,little rock,2012.0,honda,accord exl,125364.0,clean,automatic,,ar,34.5317,-93.0638
+7311873994,little rock,2012.0,honda,accord exl,125364.0,clean,automatic,,ar,34.5317,-93.0638
+7309467191,little rock,2012.0,honda,accord se,85765.0,clean,automatic,1HGCP2F69CA160457,ar,36.093598,-94.19146
+7308726745,little rock,2012.0,honda,accord exl,125364.0,clean,automatic,,ar,34.5317,-93.0638
+7307712395,little rock,2012.0,honda,accord lx sedan,122000.0,clean,automatic,,ar,34.1566,-97.1792
+7305171661,little rock,2012.0,honda,accord exl,125364.0,clean,automatic,,ar,34.5317,-93.0638
+7315628941,bakersfield,2012.0,honda,accord sdn,62095.0,clean,automatic,1HGCP2F62CA105378,ca,35.339728,-119.029217
+7307794910,bakersfield,2012.0,honda,accord ex-l v6,63685.0,salvage,automatic,1HGCP3F85CA012751,ca,34.183005,-118.370312
+7311724045,chico,2012.0,honda,accord,67000.0,clean,automatic,1HGCP2F38CA155806,ca,38.615505,-121.27169
+7304527909,chico,2012.0,honda,accord,67000.0,clean,automatic,1HGCP2F38CA155806,ca,38.615505,-121.27169
+7316869243,fresno / madera,2012.0,honda,accord lx sedan,116931.0,clean,automatic,,ca,36.770345,-119.699907
+7316248291,fresno / madera,2012.0,honda,accord,116941.0,clean,automatic,,ca,36.770489,-119.699478
+7315803929,fresno / madera,2012.0,honda,accord,71102.0,clean,automatic,,ca,36.7528,-119.7061
+7315625825,fresno / madera,2012.0,honda,accord sdn,62095.0,clean,automatic,1HGCP2F62CA105378,ca,35.339728,-119.029217
+7315361248,fresno / madera,2012.0,honda,accord,116941.0,clean,automatic,,ca,36.770352,-119.699821
+7314914808,fresno / madera,2012.0,honda,accord ex sedan,71102.0,clean,automatic,,ca,36.77038,-119.699907
+7314368924,fresno / madera,2012.0,honda,accord,71102.0,clean,automatic,1HGCP2F78CA178344,ca,36.769664,-119.698792
+7311966201,fresno / madera,2012.0,honda,accord ex sedan,71102.0,clean,automatic,,ca,36.77038,-119.699907
+7309955477,fresno / madera,2012.0,honda,accord ex sedan,71102.0,clean,automatic,,ca,36.77038,-119.699907
+7316431922,inland empire,2012.0,honda,accord,83300.0,clean,automatic,1HGCP2F73CA039125,ca,34.044989,-117.488995
+7315897452,inland empire,2012.0,honda,accord,93000.0,clean,automatic,1HGCS1B34CA016819,ca,34.129113,-117.519722
+7315546640,inland empire,2012.0,honda,accord lx sedan,94000.0,clean,automatic,,ca,33.637754,-117.154083
+7315046040,inland empire,2012.0,honda,accord,113124.0,clean,automatic,1HGCP2F43CA051717,ca,34.314937,-118.439994
+7316826193,los angeles,2012.0,honda,accord ex,103000.0,clean,automatic,,ca,34.1993,-118.5983
+7316519471,los angeles,2012.0,honda,accord se,143000.0,clean,automatic,1HGCP2F60CA049232,ca,33.868,-117.9265
+7316307644,los angeles,2012.0,honda,accord ex,103000.0,clean,automatic,,ca,34.1993,-118.5983
+7314523486,merced,2012.0,honda,accord ex,178000.0,clean,automatic,,ca,37.2983,-120.4649
+7311070842,modesto,2012.0,honda,accord ex-l,101423.0,clean,automatic,1HGCP2F82CA124319,ca,37.615718,-120.983779
+7305844026,modesto,2012.0,honda,accord se,104794.0,clean,automatic,1HGCP2F69CA216834,ca,37.654594,-120.993804
+7316729242,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7315752347,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7314819043,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7313832877,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7312805238,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7311863595,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7310845734,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7308740659,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7306791989,monterey bay,2012.0,honda,accord lx,91436.0,rebuilt,automatic,1HGCP2F31CA145649,ca,36.6811,-121.6176
+7306677696,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7304675811,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7302602106,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7301914652,monterey bay,2012.0,honda,accord,242679.0,clean,automatic,,ca,36.7563,-121.6703
+7301655453,monterey bay,2012.0,honda,accord sdn,126710.0,clean,automatic,1HGCP2F47CA104516,ca,36.613457,-121.843935
+7316595411,orange county,2012.0,honda,accord,118100.0,clean,automatic,,ca,33.7249,-117.909
+7314693253,palm springs,2012.0,honda,accord,168000.0,clean,automatic,,ca,33.6798,-116.2081
+7307439760,palm springs,2012.0,honda,accord ex-l,125657.0,clean,automatic,1HGCP2F89CA101359,ca,33.745583,-116.361979
+7304346155,palm springs,2012.0,honda,accord ex-l,125657.0,clean,automatic,1HGCP2F89CA101359,ca,33.745583,-116.361979
+7302261802,palm springs,2012.0,honda,accord ex-l,125657.0,clean,automatic,1HGCP2F89CA101359,ca,33.745583,-116.361979
+7316772184,sacramento,2012.0,honda,accord,132330.0,clean,,1HGCP2F7XCA158970,ca,38.73114,-121.28971
+7316531822,sacramento,2012.0,honda,accord cpe ex,58385.0,clean,automatic,1HGCS1B77CA004845,ca,38.610767,-121.422557
+7316343109,sacramento,2012.0,honda,accord cpe ex,58385.0,clean,automatic,1HGCS1B77CA004845,ca,38.610767,-121.422557
+7315891778,sacramento,2012.0,honda,accord,83000.0,clean,automatic,1HGCP2F67CA105988,ca,38.730931,-121.289928
+7315891485,sacramento,2012.0,honda,accord,35000.0,clean,automatic,1HGCP2F69CA006329,ca,38.730931,-121.289928
+7316547967,san diego,2012.0,honda,accord lx,50400.0,clean,automatic,,ca,32.8455,-117.2521
+7316015450,san diego,2012.0,honda,accord,75270.0,clean,automatic,1HGCP2F38CA243755,ca,33.19495,-117.37837
+7315085812,san diego,2012.0,honda,accord,75270.0,clean,automatic,1HGCP2F38CA243755,ca,33.19495,-117.37837
+7315059753,san diego,2012.0,honda,accord ex-l,48324.0,clean,automatic,,ca,32.5753,-117.0707
+7315012810,san diego,2012.0,honda,accord ex,52500.0,clean,automatic,1HGCP2F73CA176078,ca,32.7972,-117.1708
+7314949090,san diego,2012.0,honda,accord ex-l,143189.0,clean,automatic,1HGCP2F88CA080245,ca,33.050189,-117.29475
+7315996254,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7315632179,san luis obispo,2012.0,honda,accord sdn,62095.0,clean,automatic,1HGCP2F62CA105378,ca,35.339728,-119.029217
+7313110784,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7312091108,san luis obispo,2012.0,honda,accord,124531.0,clean,automatic,,ca,35.5566,-121.084
+7311662114,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7309375825,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7306301597,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7304361388,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7302727462,san luis obispo,2012.0,honda,accord,194240.0,clean,automatic,1HGCP2F75CA117730,ca,35.122159,-120.626169
+7301605431,santa barbara,2012.0,honda,accord se sedan 4d,101362.0,clean,other,1HGCP2F63CA214366,ca,33.7865,-84.4454
+7315638101,santa maria,2012.0,honda,accord sdn,62095.0,clean,automatic,1HGCP2F62CA105378,ca,35.339728,-119.029217
+7316588646,SF bay area,2012.0,honda,accord,112369.0,clean,automatic,1HGCP2F86CA084763,ca,37.323637,-121.908626
+7316430197,SF bay area,2012.0,honda,accord ex sedan,95000.0,clean,automatic,,ca,37.9823,-122.0362
+7316398871,SF bay area,2012.0,honda,accord ex,145708.0,salvage,automatic,,ca,38.347,-122.6941
+7316010974,SF bay area,2012.0,honda,accord,130741.0,clean,automatic,,ca,37.3072,-121.936
+7316535809,stockton,2012.0,honda,accord cpe ex,58385.0,clean,automatic,1HGCS1B77CA004845,ca,38.610767,-121.422557
+7315980830,stockton,2012.0,honda,accord,137968.0,clean,automatic,1HGCS1B3XCA019689,ca,38.628015,-121.401179
+7315960421,stockton,2012.0,honda,accord,123727.0,clean,automatic,1HGCP2F61CA134337,ca,38.628015,-121.401179
+7311724159,stockton,2012.0,honda,accord,67000.0,clean,automatic,1HGCP2F38CA155806,ca,38.615505,-121.27169
+7306474158,stockton,2012.0,honda,accord,122000.0,clean,automatic,,ca,38.039371,-121.260481
+7316040864,ventura county,2012.0,honda,accord,63600.0,clean,automatic,,ca,34.154952,-118.950159
+7315635265,visalia-tulare,2012.0,honda,accord sdn,62095.0,clean,automatic,1HGCP2F62CA105378,ca,35.339728,-119.029217
+7307518404,yuba-sutter,2012.0,honda,accord cpe ex,58385.0,clean,automatic,1HGCS1B77CA004845,ca,38.610767,-121.422557
+7306317617,boulder,2012.0,honda,accord,127634.0,clean,automatic,1HGCP3F85CA014872,co,40.182151,-105.102373
+7304746552,colorado springs,2012.0,honda,accord,99230.0,clean,automatic,JTHKD5BH3C2058754,co,39.740286,-105.04986
+7315778836,denver,2012.0,honda,accord ex-l v6,127634.0,clean,automatic,1HGCP3F85CA014872,co,40.182151,-105.102373
+7315214171,denver,2012.0,honda,accord,162280.0,clean,automatic,,co,39.610702,-104.949013
+7309789449,fort collins / north CO,2012.0,honda,accord,202000.0,clean,automatic,,co,40.2993,-105.1055
+7305141336,fort collins / north CO,2012.0,honda,accord,127634.0,clean,automatic,1HGCP3F85CA014872,co,40.182151,-105.102373
+7312489840,high rockies,2012.0,honda,accord,110500.0,clean,automatic,,co,38.843888,-106.12928
+7307166218,high rockies,2012.0,honda,accord,79715.0,clean,automatic,,co,39.945,-105.8172
+7313789557,eastern CT,2012.0,honda,accord se 4dr sedan,120009.0,clean,automatic,1HGCP2F64CA120755,ct,40.89333,-74.164125
+7307877334,hartford,2012.0,honda,accord ex,192000.0,clean,automatic,,ct,41.759945,-72.686914
+7314708483,new haven,2012.0,honda,accord ex-l navi,117586.0,clean,automatic,,ct,41.326766,-72.778884
+7313789440,new haven,2012.0,honda,accord,120009.0,clean,automatic,1HGCP2F64CA120755,ct,40.89333,-74.164125
+7307608053,new haven,2012.0,honda,accord ex-l navi,117586.0,clean,automatic,,ct,41.326766,-72.778884
+7306130050,new haven,2012.0,honda,accord,165151.0,clean,automatic,1HGCP2F37CA011597,ct,41.197651,-73.20814
+7315279091,"washington, DC",2012.0,honda,accord lx,102205.0,clean,automatic,,dc,38.7894,-77.2818
+7314367069,"washington, DC",2012.0,honda,accord exl,115000.0,clean,automatic,1HGCP2F86CA167786,dc,38.9053,-77.0466
+7316217666,delaware,2012.0,honda,accord se 4dr sedan,120009.0,clean,automatic,1HGCP2F64CA120755,de,40.89333,-74.164125
+7310302617,daytona beach,2012.0,honda,accord sdn,95727.0,clean,automatic,1HGCP2F39CA236569,fl,28.647059,-81.352268
+7303648766,ft myers / SW florida,2012.0,honda,accord,78615.0,clean,automatic,1HGCP2F69CA145327,fl,27.26977,-82.48229
+7314260614,gainesville,2012.0,honda,accord,126000.0,clean,automatic,,fl,29.770834,-82.283186
+7315430941,jacksonville,2012.0,honda,accord,145125.0,clean,automatic,,fl,30.2687,-81.7473
+7310837080,jacksonville,2012.0,honda,accord,114307.0,clean,automatic,,fl,30.286603,-81.553709
+7314261184,north central FL,2012.0,honda,accord,126000.0,clean,automatic,,fl,29.770834,-82.283186
+7314750352,ocala,2012.0,honda,accord,127000.0,clean,automatic,,fl,29.770834,-82.283186
+7311284486,ocala,2012.0,honda,accord,127000.0,clean,automatic,,fl,29.770834,-82.283186
+7315357291,orlando,2012.0,honda,accord,127949.0,clean,automatic,1HGCP2F4XCA133816,fl,28.480227,-81.295559
+7314001670,orlando,2012.0,honda,accord sdn,147902.0,clean,automatic,1HGCP2F45CA225948,fl,28.647059,-81.352268
+7312768160,orlando,2012.0,honda,accord ex-l v6,109479.0,clean,automatic,1HGCS2B80CA005964,fl,28.564649,-81.299016
+7312640490,orlando,2012.0,honda,accord ex-l,162000.0,parts only,automatic,,fl,28.3051,-81.4242
+7308681963,sarasota-bradenton,2012.0,honda,accord coupe,147382.0,clean,automatic,1HGCS2B80CA011506,fl,27.473591,-82.570679
+7308210570,sarasota-bradenton,2012.0,honda,accord,135745.0,clean,automatic,,fl,27.266027,-82.516651
+7315671985,south florida,2012.0,honda,accord exl,138791.0,clean,automatic,,fl,26.52003,-80.138397
+7314540397,south florida,2012.0,honda,accord,124.0,salvage,automatic,,fl,25.8936,-80.3539
+7303618742,athens,2012.0,honda,accord,186445.0,clean,automatic,,ga,34.1124,-83.9965
+7316712848,atlanta,2012.0,honda,accord sedan,0.0,clean,automatic,1HGCP3F72CA003674,ga,33.90051,-84.27707
+7316687568,atlanta,2012.0,honda,accord,97767.0,clean,automatic,1HGCP2F30CA069759,ga,33.8332,-84.6031
+7316668440,atlanta,2012.0,honda,accord,98214.0,clean,automatic,,ga,33.9845,-84.1529
+7316458632,atlanta,2012.0,honda,accord,30504.0,clean,automatic,,ga,33.854648,-84.281293
+7316435216,atlanta,2012.0,honda,accord ex-l,165000.0,clean,automatic,1HGCP2F80CA183840,ga,33.985707,-83.988436
+7316219065,atlanta,2012.0,honda,accord,146000.0,clean,automatic,,ga,34.0025,-84.4633
+7313897430,savannah / hinesville,2012.0,honda,accord coupe,165293.0,clean,automatic,1HGCS1B80CA000080,ga,36.88042,-108.180553
+7310894214,savannah / hinesville,2012.0,honda,accord ex-l,116000.0,clean,automatic,,ga,32.1082,-81.1746
+7303714585,savannah / hinesville,2012.0,honda,accord coupe,165293.0,clean,automatic,1HGCS1B80CA000080,ga,36.88042,-108.180553
+7306933013,bloomington-normal,2012.0,honda,accord,121500.0,clean,automatic,,il,40.4783,-88.9893
+7316768354,chicago,2012.0,honda,accord lx-p,70316.0,clean,automatic,1HGCP2F45CA012580,il,41.55,-87.4569
+7315520312,chicago,2012.0,honda,accord ex-l,88000.0,clean,automatic,,il,41.7328,-88.1282
+7315059604,chicago,2012.0,honda,accord,96515.0,clean,automatic,,il,41.7662,-88.141
+7314688529,chicago,2012.0,honda,accord lx,90000.0,rebuilt,automatic,,il,42.282,-87.856
+7305424334,"quad cities, IA/IL",2012.0,honda,accord sdn,115335.0,clean,automatic,1HGCP2F49CA225970,il,41.970512,-91.669785
+7313587945,"st louis, MO",2012.0,honda,accord,83724.0,clean,automatic,1HGCP2F31CA196083,il,38.7378,-90.6234
+7312603767,"st louis, MO",2012.0,honda,accord,115000.0,clean,automatic,,il,38.5937,-90.2537
+7310817631,fort wayne,2012.0,honda,accord se,140873.0,clean,automatic,1HGCP2F6XCA012320,in,41.366954,-85.133958
+7313982513,south bend / michiana,2012.0,honda,accord se,127455.0,clean,automatic,,in,41.754,-86.2509
+7310283476,south bend / michiana,2012.0,honda,accord,95920.0,clean,automatic,1HGCP2F85CA186667,in,41.66553,-86.249468
+7309206580,south bend / michiana,2012.0,honda,accord,95920.0,clean,automatic,1HGCP2F85CA186667,in,41.66553,-86.249468
+7307751723,south bend / michiana,2012.0,honda,accord se,106422.0,clean,automatic,,in,41.7436,-86.2501
+7307651937,south bend / michiana,2012.0,honda,accord,95920.0,clean,automatic,1HGCP2F85CA186667,in,41.66553,-86.249468
+7307131878,south bend / michiana,2012.0,honda,accord,95920.0,clean,automatic,1HGCP2F85CA186667,in,41.66553,-86.249468
+7302782755,south bend / michiana,2012.0,honda,accord,95920.0,clean,automatic,1HGCP2F85CA186667,in,41.66553,-86.249468
+7305418996,cedar rapids,2012.0,honda,accord sdn,115335.0,clean,automatic,1HGCP2F49CA225970,ia,41.970512,-91.669785
+7311048640,des moines,2012.0,honda,accord lx,86672.0,clean,automatic,1HGCP2F31CA133016,ia,41.658523,-93.770027
+7305429541,des moines,2012.0,honda,accord sdn,115335.0,clean,automatic,1HGCP2F49CA225970,ia,41.970512,-91.669785
+7315942894,"kansas city, MO",2012.0,honda,accord 2-door coupe,85900.0,clean,automatic,,ks,38.8636,-94.7103
+7308502901,lexington,2012.0,honda,accord ex,93774.0,clean,automatic,1HGCP2F71CA228811,ky,37.935804,-84.548292
+7302821774,louisville,2012.0,honda,accord,116000.0,clean,automatic,,ky,38.259568,-85.550537
+7314788598,monroe,2012.0,honda,accord lx-s,141000.0,clean,automatic,,la,32.513345,-92.113001
+7310932147,new orleans,2012.0,honda,accord,140000.0,rebuilt,automatic,,la,29.9871,-90.1695
+7315869921,maine,2012.0,honda,accord v6 exl,139730.0,clean,manual,,me,44.83432,-68.771067
+7313245362,baltimore,2012.0,honda,accord,176817.0,clean,other,1HGCP2F67CA110379,md,39.433086,-76.343119
+7310802675,baltimore,2012.0,honda,accord se 4dr sedan,126310.0,clean,automatic,1HGCP2F66CA214376,md,40.89333,-74.164125
+7310077622,baltimore,2012.0,honda,accord,111061.0,clean,automatic,,md,39.3486,-76.6937
+7309901166,baltimore,2012.0,honda,accord,176817.0,clean,other,1HGCP2F67CA110379,md,39.433086,-76.343119
+7306166721,baltimore,2012.0,honda,accord,120009.0,clean,automatic,1HGCP2F64CA120755,md,40.89333,-74.164125
+7303391284,baltimore,2012.0,honda,accord coupe,119223.0,clean,automatic,1HGCS2B83CA005151,md,39.318189,-76.608452
+7312447550,eastern shore,2012.0,honda,accord ex-l,140100.0,clean,automatic,,md,38.3475,-75.1866
+7315296711,boston,2012.0,honda,accord sdn,87973.0,clean,automatic,1HGCP2F34CA072714,ma,42.659124,-71.262458
+7302581189,south coast,2012.0,honda,accord,90000.0,clean,automatic,,ma,41.64351,-71.054551
+7311793632,western massachusetts,2012.0,honda,accord se,97875.0,rebuilt,automatic,1HGCP2F64CA212562,ma,42.125984,-72.725007
+7303247872,western massachusetts,2012.0,honda,accord sdn,92754.0,clean,automatic,1HGCP2F61CA209716,ma,,
+7310760852,worcester / central MA,2012.0,honda,accord,158600.0,clean,automatic,1HGCP2F79CA007540,ma,42.27877,-71.68382
+7307690954,worcester / central MA,2012.0,honda,accord sdn,59111.0,rebuilt,automatic,,ma,42.236556,-71.751747
+7313235363,ann arbor,2012.0,honda,accord ex,114000.0,clean,automatic,,mi,42.378583,-83.552914
+7311278734,battle creek,2012.0,honda,accord,90900.0,clean,automatic,,mi,42.3943,-85.2888
+7309867206,battle creek,2012.0,honda,accord,85000.0,clean,automatic,,mi,41.9255,-85.0057
+7313735843,flint,2012.0,honda,accord ex,114555.0,clean,automatic,,mi,42.377822,-83.555145
+7312576530,flint,2012.0,honda,accord sdn,140438.0,clean,automatic,1HGCP2F80CA151132,mi,42.944251,-83.730441
+7310003220,flint,2012.0,honda,accord sdn,140438.0,clean,automatic,1HGCP2F80CA151132,mi,42.944251,-83.730441
+7306687435,flint,2012.0,honda,accord sdn,140438.0,clean,automatic,1HGCP2F80CA151132,mi,42.944251,-83.730441
+7312249349,lansing,2012.0,honda,accord ex,114300.0,clean,automatic,,mi,42.376807,-83.560295
+7311343597,northern michigan,2012.0,honda,accord,96573.0,clean,automatic,,mi,44.69335,-85.691069
+7310004335,saginaw-midland-baycity,2012.0,honda,accord sdn,140438.0,clean,automatic,1HGCP2F80CA151132,mi,42.944251,-83.730441
+7314871797,duluth / superior,2012.0,honda,accord,175645.0,salvage,manual,,mn,45.5851,-93.5961
+7309534882,fargo / moorhead,2012.0,honda,accord,139585.0,clean,automatic,1HGCP2F61CA181738,mn,46.842209,-96.769064
+7315752987,minneapolis / st paul,2012.0,honda,accord exl,110000.0,salvage,automatic,,mn,45.0192,-93.2401
+7315519450,minneapolis / st paul,2012.0,honda,accord,161765.0,clean,automatic,1HGCP2F67CA019550,mn,44.630379,-93.136146
+7315431174,minneapolis / st paul,2012.0,honda,accord,127321.0,clean,automatic,1HGCP2F37CA041375,mn,44.815233,-93.209661
+7315101751,minneapolis / st paul,2012.0,honda,accord,127321.0,clean,automatic,1HGCP2F37CA041375,mn,44.815233,-93.209661
+7306184711,jackson,2012.0,honda,accord,99160.0,clean,automatic,1HGCP2F89CA045780,ms,32.278352,-90.147605
+7312341403,north mississippi,2012.0,honda,accord se,140000.0,clean,automatic,,ms,34.9441,-89.8544
+7314878061,columbia / jeff city,2012.0,honda,accord,84713.0,clean,automatic,,mo,38.48057,-91.843571
+7309060370,springfield,2012.0,honda,accord,,clean,automatic,1HGCP2F62CA125033,mo,37.24047,-93.300301
+7303111130,springfield,2012.0,honda,accord,,clean,automatic,1HGCP2F62CA125033,mo,37.24047,-93.300301
+7316580708,great falls,2012.0,honda,accord lx sedan 4d,93347.0,clean,automatic,,mt,48.872865,-111.907864
+7313634040,kalispell,2012.0,honda,accord,148000.0,clean,automatic,,mt,48.2028,-114.3039
+7316941440,charlotte,2012.0,honda,accord,,clean,automatic,1HGCS2B81CA002023,nc,35.140258,-80.87612
+7315490084,charlotte,2012.0,honda,accord,58000.0,rebuilt,automatic,,nc,35.8334,-78.5799
+7314689498,charlotte,2012.0,honda,accord se,109000.0,rebuilt,automatic,,nc,35.8334,-78.5799
+7312524804,charlotte,2012.0,honda,accord,,clean,automatic,1HGCS2B81CA002023,nc,35.140258,-80.87612
+7308938289,charlotte,2012.0,honda,accord,,clean,automatic,1HGCS2B81CA002023,nc,35.140258,-80.87612
+7305810685,eastern NC,2012.0,honda,accord,86500.0,clean,automatic,,nc,35.7243,-77.9427
+7314878924,fayetteville,2012.0,honda,accord,90712.0,clean,automatic,1HGCP3F82CA005479,nc,35.0019,-78.9364
+7313552259,fayetteville,2012.0,honda,accord ex-l v6 auto,139056.0,clean,automatic,1HGCP3F85CA040369,nc,35.089292,-78.985646
+7307116025,greensboro,2012.0,honda,accord sedan,,,,1HGCP2F60CA009779,nc,35.982957,-80.009461
+7316547685,raleigh / durham / CH,2012.0,honda,accord,135000.0,clean,automatic,1HGCP2F39CA131613,nc,35.7956,-78.7941
+7315025410,raleigh / durham / CH,2012.0,honda,accord,71581.0,rebuilt,automatic,,nc,35.9781,-78.8439
+7311160927,raleigh / durham / CH,2012.0,honda,accord,44000.0,clean,automatic,1HGCP2F36CA226937,nc,35.602463,-78.569756
+7310724292,raleigh / durham / CH,2012.0,honda,accord,133000.0,clean,automatic,,nc,35.754761,-78.775423
+7310050785,raleigh / durham / CH,2012.0,honda,accord,123378.0,clean,automatic,1HGCP2F77CA007522,nc,35.710933,-78.660041
+7310014620,raleigh / durham / CH,2012.0,honda,accord,123378.0,clean,automatic,1HGCP2F77CA007522,nc,35.710933,-78.660041
+7310014271,raleigh / durham / CH,2012.0,honda,accord,123378.0,clean,automatic,1HGCP2F77CA007522,nc,35.710933,-78.660041
+7315043949,wilmington,2012.0,honda,accord,185000.0,clean,automatic,1HGCP2F65CA083313,nc,34.255124,-77.844357
+7314955383,winston-salem,2012.0,honda,accord lx-s,96000.0,clean,automatic,,nc,36.1165,-80.0831
+7316826346,las vegas,2012.0,honda,accord ex-l automatic navi,118300.0,clean,automatic,,nv,36.195724,-115.092537
+7315012056,las vegas,2012.0,honda,accord ex sedan,125897.0,clean,automatic,,nv,36.1205,-115.0523
+7313689128,las vegas,2012.0,honda,accord ex-l v6,116492.0,clean,automatic,,nv,36.0395,-114.982
+7312189541,las vegas,2012.0,honda,accord,123399.0,clean,automatic,1HGCP2F6XCA143506,nv,36.094039,-115.201838
+7316506514,central NJ,2012.0,honda,accord,149720.0,clean,automatic,1HGCP2F38CA204180,nj,40.1481,-74.2137
+7308873394,central NJ,2012.0,honda,accord se,198000.0,clean,automatic,,nj,40.588,-74.6874
+7306116190,central NJ,2012.0,honda,accord se 4dr sedan,126310.0,clean,automatic,1HGCP2F66CA214376,nj,40.89333,-74.164125
+7307716310,jersey shore,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,nj,39.937155,-75.088194
+7315245112,south jersey,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,nj,39.937155,-75.088194
+7310698459,south jersey,2012.0,honda,accord,180000.0,clean,automatic,,nj,39.715123,-75.105612
+7309247267,south jersey,2012.0,honda,accord,74156.0,missing,automatic,,nj,39.9074,-75.0008
+7307716539,south jersey,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,nj,39.937155,-75.088194
+7307697522,south jersey,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,nj,39.937155,-75.088194
+7315088664,albuquerque,2012.0,honda,accord se,112000.0,clean,automatic,,nm,35.093795,-106.730147
+7315826097,roswell / carlsbad,2012.0,honda,accord,117600.0,clean,manual,,nm,33.332,-105.681
+7312550444,santa fe / taos,2012.0,honda,accord lx,106000.0,clean,automatic,,nm,35.8663,-106.2676
+7310982137,albany,2012.0,honda,accord,136000.0,clean,other,,ny,42.6683,-73.7744
+7307870802,albany,2012.0,honda,accord se,112543.0,clean,automatic,,ny,42.7841,-73.9094
+7302568502,albany,2012.0,honda,accord,143000.0,clean,automatic,,ny,43.3115,-73.6448
+7308732599,buffalo,2012.0,honda,accord,118000.0,clean,automatic,,ny,42.9167,-78.8895
+7305760238,glens falls,2012.0,honda,accord,148000.0,clean,automatic,,ny,43.0947,-73.503
+7302574553,glens falls,2012.0,honda,accord,143000.0,clean,automatic,,ny,43.3115,-73.6448
+7316681335,long island,2012.0,honda,accord sdn,106429.0,clean,automatic,1HGCP2F32CA149614,ny,40.786795,-73.218686
+7316564601,long island,2012.0,honda,accord,107000.0,clean,automatic,,ny,40.7866,-73.1961
+7314844848,new york city,2012.0,honda,accord,73189.0,clean,automatic,1HGCP2F75CA225099,ny,41.279773,-73.926529
+7308180316,plattsburgh-adirondacks,2012.0,honda,accord sdn,71162.0,clean,automatic,1HGCP2F45CA232673,ny,42.905975,-73.218064
+7310494527,rochester,2012.0,honda,accord,84599.0,clean,automatic,,ny,43.195438,-77.6055
+7316494683,syracuse,2012.0,honda,accord se,107000.0,clean,automatic,,ny,43.1528,-76.2235
+7316392709,watertown,2012.0,honda,accord ex,162000.0,clean,automatic,,ny,43.9743,-75.9122
+7314358672,new hampshire,2012.0,honda,accord,137663.0,clean,automatic,,nh,42.755943,-71.430561
+7315244400,akron / canton,2012.0,honda,accord,109195.0,clean,automatic,1HGCP2F86CA094516,oh,41.101059,-81.451631
+7311538681,cleveland,2012.0,honda,accord ex,71000.0,salvage,automatic,1NGCS1B82CA024252,oh,41.3724,-82.1051
+7306602405,cleveland,2012.0,honda,accord,109195.0,clean,automatic,1HGCP2F86CA094516,oh,41.101059,-81.451631
+7313919545,columbus,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7310557553,columbus,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7306889112,columbus,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7304116015,columbus,2012.0,honda,accord lx,250519.0,clean,automatic,,oh,39.947735,-82.982691
+7303390545,columbus,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.744285,-82.643755
+7310275868,dayton / springfield,2012.0,honda,accord,133024.0,clean,automatic,1HGCP2F62CA186222,oh,39.651352,-84.222938
+7313929464,parkersburg-marietta,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7313924281,parkersburg-marietta,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7306889871,parkersburg-marietta,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7312704946,toledo,2012.0,honda,accord ex,114300.0,clean,automatic,,oh,42.373383,-83.584156
+7306710610,toledo,2012.0,honda,accord ex,1121.0,clean,automatic,1HGCP2F75CA165566,oh,41.5817,-83.6628
+7313929062,zanesville / cambridge,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7310554846,zanesville / cambridge,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7306887346,zanesville / cambridge,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.748631,-82.660598
+7303388759,zanesville / cambridge,2012.0,honda,accord,92347.0,clean,automatic,1HGCP3F85CA015911,oh,39.744285,-82.643755
+7315618500,oklahoma city,2012.0,honda,accord,163000.0,clean,automatic,,ok,32.9492,-96.4418
+7313270597,oklahoma city,2012.0,honda,accord,163000.0,clean,automatic,,ok,32.9492,-96.4418
+7309321357,oklahoma city,2012.0,honda,accord,128917.0,clean,automatic,1HGCP2F32CA110604,ok,35.511257,-97.611432
+7307706865,oklahoma city,2012.0,honda,accord lx,122000.0,clean,automatic,,ok,34.1566,-97.1792
+7307712676,texoma,2012.0,honda,accord sedan lx,122000.0,clean,automatic,,ok,34.1566,-97.1792
+7316817672,tulsa,2012.0,honda,accord coupe,125000.0,clean,automatic,,ok,36.1262,-95.9408
+7311275397,tulsa,2012.0,honda,accord,167695.0,clean,manual,1HGCS1A31CA007853,ok,36.146286,-95.761017
+7307710959,tulsa,2012.0,honda,accord se,85765.0,clean,automatic,1HGCP2F69CA160457,ok,36.093598,-94.19146
+7305074640,tulsa,2012.0,honda,accord,167695.0,clean,manual,1HGCS1A31CA007853,ok,36.146286,-95.761017
+7311821940,bend,2012.0,honda,accord,38090.0,clean,automatic,1HGCP3F82CA018426,or,44.05494,-121.269231
+7316751719,eugene,2012.0,honda,accord ex-l,83949.0,clean,automatic,1HGCP3F85CA024544,or,44.052167,-123.120453
+7315032951,eugene,2012.0,honda,accord,72441.0,clean,automatic,,or,44.066374,-123.138371
+7314044971,eugene,2012.0,honda,accord,72441.0,clean,automatic,,or,44.066374,-123.138371
+7310295090,eugene,2012.0,honda,accord,83949.0,clean,automatic,1HGCP3F85CA024544,or,44.052167,-123.120453
+7308239053,medford-ashland,2012.0,honda,accord,71329.0,clean,other,1HGCP2F80CA051774,or,42.37853,-122.85752
+7316355395,salem,2012.0,honda,accord,224068.0,clean,automatic,1HGCP3F83CA028172,or,44.931499,-122.9836
+7315082844,salem,2012.0,honda,accord,165037.0,clean,automatic,1HGCP2F70CA160839,or,44.957008,-123.019959
+7314613673,salem,2012.0,honda,accord,184900.0,clean,automatic,,or,44.9026,-122.9074
+7313470386,salem,2012.0,honda,accord,165037.0,clean,automatic,1HGCP2F70CA160839,or,44.931499,-122.9836
+7313470093,salem,2012.0,honda,accord,151952.0,clean,automatic,1HGCP2F65CA233663,or,44.931499,-122.9836
+7310796959,altoona-johnstown,2012.0,honda,accord,,,,1HGCP2F33CA152652,pa,41.26154,-78.70452
+7313949726,harrisburg,2012.0,honda,accord,,,,1HGCP2F33CA152652,pa,41.26154,-78.70452
+7306760112,lancaster,2012.0,honda,accord,,,,1HGCP2F33CA152652,pa,41.26154,-78.70452
+7315245585,philadelphia,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,pa,39.937155,-75.088194
+7311489083,philadelphia,2012.0,honda,accord,129329.0,clean,automatic,1HGCS1B31CA020777,pa,40.090868,-75.137709
+7310421569,philadelphia,2012.0,honda,accord,95492.0,clean,automatic,1HGCP2F32CA000894,pa,40.090868,-75.137709
+7307716533,philadelphia,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,pa,39.937155,-75.088194
+7307698476,philadelphia,2012.0,honda,accord sdn,173909.0,clean,automatic,1HGCP2F63CA034546,pa,39.937155,-75.088194
+7309550004,pittsburgh,2012.0,honda,accord lx,104700.0,clean,automatic,,pa,40.4346,-79.8655
+7308221096,pittsburgh,2012.0,honda,accord ex-l,67689.0,clean,automatic,1HGCP2F83CA201957,pa,40.387612,-79.996433
+7316166282,poconos,2012.0,honda,accord se 4dr sedan,120009.0,clean,automatic,1HGCP2F64CA120755,pa,40.89333,-74.164125
+7310421562,poconos,2012.0,honda,accord,95492.0,clean,automatic,1HGCP2F32CA000894,pa,40.090868,-75.137709
+7305585854,poconos,2012.0,honda,accord se 4dr sedan,126310.0,clean,automatic,1HGCP2F66CA214376,pa,40.89333,-74.164125
+7316382370,scranton / wilkes-barre,2012.0,honda,accord,130800.0,rebuilt,automatic,,pa,40.924084,-76.02828
+7315102795,rhode island,2012.0,honda,accord,170000.0,clean,automatic,,ri,41.8541,-71.4378
+7308590375,rhode island,2012.0,honda,accord,170000.0,clean,automatic,,ri,41.8541,-71.4378
+7306203377,charleston,2012.0,honda,accord,141318.0,clean,automatic,,sc,32.718,-79.9537
+7302713052,charleston,2012.0,honda,accord,185040.0,clean,automatic,,sc,32.8473,-79.8206
+7309548736,greenville / upstate,2012.0,honda,accord,151000.0,salvage,automatic,,sc,34.9803,-81.9168
+7315117986,chattanooga,2012.0,honda,accord ex-l,210000.0,clean,automatic,,tn,36.4245,-84.9357
+7313827808,chattanooga,2012.0,honda,accord,106000.0,clean,automatic,,tn,35.2023,-84.8476
+7313129761,knoxville,2012.0,honda,accord exl coupe,210000.0,clean,automatic,,tn,36.2598,-85.0015
+7305308130,knoxville,2012.0,honda,accord,210000.0,clean,automatic,,tn,36.4245,-84.9357
+7310286709,memphis,2012.0,honda,accord,189171.0,clean,automatic,,tn,35.224574,-89.926689
+7307677267,memphis,2012.0,honda,accord,106600.0,clean,automatic,,tn,35.224574,-89.926689
+7306671992,memphis,2012.0,honda,accord,114000.0,clean,automatic,1HGCP2F38CA125348,tn,35.2027,-89.7279
+7302163516,memphis,2012.0,honda,accord,167000.0,clean,automatic,,tn,35.148708,-89.911789
+7312939635,nashville,2012.0,honda,accord sedan i4,126250.0,,automatic,1HGCP2F45CA083911,tn,35.987739,-86.523884
+7310461384,nashville,2012.0,honda,accord sedan i4,126250.0,,automatic,1HGCP2F45CA083911,tn,35.987739,-86.523884
+7310130622,nashville,2012.0,honda,accord,96480.0,clean,automatic,,tn,36.096156,-86.737657
+7313832407,austin,2012.0,honda,accord,119000.0,clean,automatic,,tx,30.320848,-97.687941
+7313589962,corpus christi,2012.0,honda,accord,99000.0,clean,automatic,,tx,27.7984,-97.6995
+7316802772,dallas / fort worth,2012.0,honda,accord,112500.0,rebuilt,automatic,,tx,32.6605,-97.0311
+7316705203,dallas / fort worth,2012.0,honda,accord,83380.0,clean,automatic,,tx,32.84831,-96.825474
+7316663462,dallas / fort worth,2012.0,honda,accord,130000.0,clean,automatic,,tx,32.8621,-97.2508
+7315539772,dallas / fort worth,2012.0,honda,accord lx-s coupe manual,128319.0,clean,manual,1HGCS1A34CA001383,tx,32.958514,-96.730124
+7315425939,dallas / fort worth,2012.0,honda,accord se,177000.0,clean,automatic,1HGCP2F60CA026291,tx,32.9522,-96.6654
+7315067095,dallas / fort worth,2012.0,honda,accord,148955.0,clean,automatic,,tx,32.895646,-96.889714
+7315065629,dallas / fort worth,2012.0,honda,accord,111114.0,clean,automatic,,tx,32.840011,-97.225295
+7316585604,houston,2012.0,honda,accord exl,25000.0,clean,automatic,,tx,-16.897112,-66.796875
+7305430978,mcallen / edinburg,2012.0,honda,"accord exl, 2dr-coupe",146000.0,rebuilt,automatic,,tx,26.23445,-98.315166
+7315032532,san antonio,2012.0,honda,accord,104000.0,clean,automatic,,tx,29.423,-98.526
+7314528360,tyler / east TX,2012.0,honda,accord,161763.0,clean,automatic,1HGCP2F37CA148796,tx,31.755268,-95.648424
+7307711308,wichita falls,2012.0,honda,accord lx sedan,122000.0,clean,automatic,,tx,34.1566,-97.1792
+7314874273,vermont,2012.0,honda,accord lx,128000.0,clean,automatic,,vt,44.457791,-73.146715
+7314819440,vermont,2012.0,honda,accord sdn,109630.0,clean,automatic,1HGCP2F79CA133252,vt,44.602263,-73.16141
+7306729665,vermont,2012.0,honda,accord lx,128000.0,clean,automatic,,vt,44.457791,-73.146715
+7305875516,vermont,2012.0,honda,accord sdn,46295.0,clean,automatic,1HGCP2F42CA041342,vt,44.664737,-73.111428
+7314692155,fredericksburg,2012.0,honda,accord,87375.0,clean,automatic,1HGCS1B83CA012434,va,38.25997,-77.49321
+7311982582,fredericksburg,2012.0,honda,accord exl,115000.0,clean,automatic,1HGCP2F86CA167786,va,38.2995,-77.4772
+7310476912,harrisonburg,2012.0,honda,accord exl,115000.0,clean,automatic,1HGCP2F86CA167786,va,38.4489,-78.8714
+7312860508,norfolk / hampton roads,2012.0,honda,accord,126769.0,clean,automatic,1HGCP2F64CA049671,va,36.91802,-76.20042
+7311412649,norfolk / hampton roads,2012.0,honda,accord,96296.0,clean,automatic,1HGCP2F6XCA22717D,va,36.917094,-76.23224
+7310602719,norfolk / hampton roads,2012.0,honda,accord,87403.0,clean,automatic,1HGCP2F34CA184946,va,36.9202,-76.216
+7308660968,norfolk / hampton roads,2012.0,honda,accord,126769.0,clean,automatic,1HGCP2F64CA049671,va,36.91802,-76.20042
+7307729546,norfolk / hampton roads,2012.0,honda,accord,47095.0,clean,automatic,1HGCP2F46CA020901,va,36.90458,-76.1336
+7304689166,norfolk / hampton roads,2012.0,honda,accord,47095.0,clean,automatic,1HGCP2F46CA020901,va,36.90458,-76.1336
+7304063907,norfolk / hampton roads,2012.0,honda,accord,126769.0,clean,automatic,1HGCP2F64CA049671,va,36.91802,-76.20042
+7312953957,richmond,2012.0,honda,accord,,clean,automatic,,va,38.385689,-77.442181
+7310754570,richmond,2012.0,honda,accord ex-l,127650.0,clean,automatic,,va,37.627624,-77.504871
+7303064028,roanoke,2012.0,honda,accord,112560.0,clean,automatic,,va,36.9872,-79.9149
+7313439862,winchester,2012.0,honda,accord exl,115000.0,clean,automatic,1HGCP2F86CA167786,va,38.9268,-78.1796
+7306239894,winchester,2012.0,honda,accord exl,115000.0,clean,automatic,1HGCP2F86CA167786,va,38.9268,-78.1796
+7316561872,kennewick-pasco-richland,2012.0,honda,accord ex-l,180000.0,clean,automatic,,wa,46.074625,-119.086144
+7316967840,eastern panhandle,2012.0,honda,accord exl,115000.0,clean,automatic,1HGCP2F86CA167786,wv,39.4567,-77.9727
+7311943375,la crosse,2012.0,honda,accord se,106000.0,clean,automatic,,wi,43.5446,-91.7806
+7313285042,madison,2012.0,honda,accord,85775.0,clean,automatic,1HGCP2F6XCA098941,wi,42.916853,-89.229584
+7306909038,madison,2012.0,honda,accord,85775.0,clean,automatic,1HGCP2F6XCA098941,wi,42.916853,-89.229584
+7316848947,milwaukee,2012.0,honda,accord,185747.0,clean,automatic,,wi,43.016513,-88.039487
+7316682012,milwaukee,2012.0,honda,accord,134822.0,clean,automatic,,wi,43.082,-87.8895

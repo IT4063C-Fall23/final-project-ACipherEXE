@@ -1,0 +1,521 @@
+id,region,year,manufacturer,model,odometer,title_status,transmission,VIN,state,lat,long
+7311948105,birmingham,2012.0,ford,f-150,178802.0,,automatic,1FTEX1EM6CKD17180,al,33.209789,-86.783493
+7316267296,huntsville / decatur,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,al,35.59352,-87.05396
+7312853317,huntsville / decatur,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,al,35.59352,-87.05396
+7309309072,huntsville / decatur,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,al,35.59352,-87.05396
+7309301833,huntsville / decatur,2012.0,ford,f-150,101760.0,clean,automatic,1FTFW1ET6CFA88460,al,35.59352,-87.05396
+7306716475,huntsville / decatur,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,al,35.59352,-87.05396
+7305698110,huntsville / decatur,2012.0,ford,f-150,101760.0,clean,automatic,1FTFW1ET6CFA88460,al,35.59352,-87.05396
+7305667309,huntsville / decatur,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,al,35.59352,-87.05396
+7307195577,mobile,2012.0,ford,f-150,174196.0,clean,automatic,,al,30.668786,-88.105874
+7316010147,tuscaloosa,2012.0,ford,f-150 larait 4 door,91345.0,clean,automatic,,al,33.5401,-88.2
+7313858000,anchorage / mat-su,2012.0,ford,f-150,118745.0,clean,other,1FTFW1ET3CFC03855,ak,61.572407,-149.375517
+7313493251,anchorage / mat-su,2012.0,ford,f-150 king ranch 4x4,74469.0,clean,automatic,1FTFW1ET5CKD08145,ak,61.217811,-149.870253
+7307414253,anchorage / mat-su,2012.0,ford,f-150 king ranch 4x4,74469.0,clean,automatic,1FTFW1ET5CKD08145,ak,61.217811,-149.870253
+7316757184,phoenix,2012.0,ford,f-150 f150,168000.0,clean,automatic,,az,33.675791,-112.030334
+7316597555,phoenix,2012.0,ford,f-150,248000.0,clean,automatic,,az,33.386,-111.841
+7316267114,phoenix,2012.0,ford,f-150,125000.0,clean,automatic,,az,33.32135,-111.721091
+7316138044,tucson,2012.0,ford,f-150,98188.0,clean,automatic,1FTFW1EF7CFC80089,az,32.23539,-110.916482
+7315187664,tucson,2012.0,ford,f-150,142653.0,salvage,automatic,,az,32.25,-110.8869
+7307949944,fayetteville,2012.0,ford,f-150,119231.0,clean,automatic,,ar,36.1835,-94.1762
+7316502524,fort smith,2012.0,ford,f-150 xl supercrew 4x4,194000.0,clean,automatic,1FTFW1EF2CFB37177,ar,36.146766,-95.917095
+7315977505,fort smith,2012.0,ford,f-150 xl supercrew 4x4,194000.0,clean,automatic,1FTFW1EF2CFB37177,ar,36.146766,-95.917095
+7307385206,little rock,2012.0,ford,f-150,52977.0,clean,automatic,1FTFW1EF8CFC42323,ar,34.97774,-91.52195
+7314087741,chico,2012.0,ford,f-150 supercrew xlt 4x4,109870.0,clean,automatic,,ca,40.175298,-122.233025
+7311961471,chico,2012.0,ford,f-150,153700.0,clean,automatic,1FTFW1R69CFC80573,ca,38.605011,-121.401917
+7310945353,chico,2012.0,ford,f-150 supercrew xlt 4x4,109870.0,clean,automatic,,ca,40.175298,-122.233025
+7309579546,chico,2012.0,ford,f-150 supercrew xlt 4x4,109870.0,clean,automatic,,ca,40.175298,-122.233025
+7315001632,inland empire,2012.0,ford,f-150,149143.0,,automatic,1FTFX1ET4CFB10534,ca,34.065,-117.1672
+7314916608,inland empire,2012.0,ford,f-150 xlt,164000.0,clean,automatic,,ca,33.874023,-117.531948
+7314668151,inland empire,2012.0,ford,f-150 xlt,164000.0,clean,automatic,,ca,33.874023,-117.531948
+7314531324,inland empire,2012.0,ford,f-150 xlt,164000.0,clean,automatic,,ca,33.874023,-117.531948
+7314009341,inland empire,2012.0,ford,f-150 xlt,164000.0,clean,automatic,,ca,33.874023,-117.531948
+7315527588,mendocino county,2012.0,ford,f-150,70087.0,clean,automatic,1FTFW1CFXCFA45348,ca,38.22774,-122.6194
+7304249834,merced,2012.0,ford,f-150 svt raptor,101535.0,clean,automatic,1FTFW1R64CFC11970,ca,38.610767,-121.422557
+7316815459,modesto,2012.0,ford,f-150,70668.0,clean,automatic,1FTFW1CT0CKD74458,ca,37.961518,-121.273657
+7308032319,modesto,2012.0,ford,f-150 xlt,195030.0,clean,automatic,,ca,37.737407,-120.925939
+7314858905,orange county,2012.0,ford,f-150,118703.0,clean,automatic,1FTFW1R62CFC09795,ca,33.930086,-117.413442
+7314091547,redding,2012.0,ford,f-150 supercrew xlt 4x4,109870.0,clean,automatic,,ca,40.175298,-122.233025
+7310936273,redding,2012.0,ford,f-150 supercrew xlt 4x4,109870.0,clean,automatic,,ca,40.175298,-122.233025
+7309576585,redding,2012.0,ford,f-150 supercrew xlt 4x4,109870.0,clean,automatic,,ca,40.175298,-122.233025
+7303937508,redding,2012.0,ford,f-150,134000.0,clean,automatic,1FTFW1EF5CFB74353,ca,38.614287,-121.270495
+7314797979,reno / tahoe,2012.0,ford,f-150 4x4,108975.0,clean,automatic,,ca,39.498,-119.8239
+7311982677,reno / tahoe,2012.0,ford,f-150,153700.0,clean,automatic,1FTFW1R69CFC80573,ca,38.605011,-121.401917
+7315618710,sacramento,2012.0,ford,f-150,204441.0,clean,automatic,1FTMF1CMXCFB27618,ca,38.611789,-121.423594
+7316059758,san luis obispo,2012.0,ford,f-150,67600.0,clean,automatic,,ca,35.0298,-120.4894
+7315344895,san luis obispo,2012.0,ford,f-150,119689.0,clean,,1FTEX1CM8CKE36206,ca,35.581556,-120.698513
+7316062640,santa maria,2012.0,ford,f-150,67600.0,clean,automatic,,ca,35.0298,-120.4894
+7316598820,SF bay area,2012.0,ford,f-150 4x4,175000.0,clean,automatic,1FTFX1EF9CFD08634,ca,37.374355,-122.041373
+7316915837,stockton,2012.0,ford,f-150,204361.0,clean,automatic,1FTMF1CM6CKE09343,ca,38.608933,-121.430188
+7315614893,stockton,2012.0,ford,f-150,204441.0,clean,automatic,1FTMF1CMXCFB27618,ca,38.611789,-121.423594
+7311971511,stockton,2012.0,ford,f-150,153700.0,clean,automatic,1FTFW1R69CFC80573,ca,38.605011,-121.401917
+7307500016,stockton,2012.0,ford,f-150 svt raptor,101535.0,clean,automatic,1FTFW1R64CFC11970,ca,38.610767,-121.422557
+7305864472,stockton,2012.0,ford,f-150,204361.0,clean,automatic,1FTMF1CM6CKE09343,ca,38.608933,-121.430188
+7313022814,ventura county,2012.0,ford,f-150,135649.0,clean,automatic,1FTFW1ET4CFD05410,ca,34.1847,-118.38697
+7309335326,ventura county,2012.0,ford,f-150,115828.0,clean,automatic,1FTFW1CT1CFA92452,ca,34.1847,-118.38697
+7308864995,ventura county,2012.0,ford,f-150,135649.0,clean,automatic,1FTFW1ET4CFD05410,ca,34.1847,-118.38697
+7316925630,yuba-sutter,2012.0,ford,f-150,204361.0,clean,automatic,1FTMF1CM6CKE09343,ca,38.608933,-121.430188
+7307507637,yuba-sutter,2012.0,ford,f-150 svt raptor,101535.0,clean,automatic,1FTFW1R64CFC11970,ca,38.610767,-121.422557
+7312296886,boulder,2012.0,ford,f-150 fx4,225575.0,clean,automatic,1FTFW1EFXCKD30636,co,40.182151,-105.102373
+7314109965,colorado springs,2012.0,ford,f-150 super cab,173000.0,clean,automatic,,co,38.436857,-104.617504
+7313570388,colorado springs,2012.0,ford,f-150,150190.0,,other,1FTFW1ET6CFA93061,co,38.827159,-104.822458
+7309966420,colorado springs,2012.0,ford,f-150,150190.0,,other,1FTFW1ET6CFA93061,co,38.827159,-104.822458
+7306366301,colorado springs,2012.0,ford,f-150,91501.0,clean,automatic,1FTFW1ETXCFC84627,co,40.624962,-103.219833
+7316794737,denver,2012.0,ford,f-150 lariat,194210.0,clean,automatic,1FTFW1EFXCFA11052,co,40.182151,-105.102373
+7316375844,denver,2012.0,ford,f-150,82000.0,rebuilt,automatic,,co,39.9636,-104.9072
+7316392029,denver,2012.0,ford,f-150,170180.0,clean,automatic,1FTFX1EF7CFA59024,co,39.595086,-104.845088
+7316189952,denver,2012.0,ford,f-150,159396.0,clean,automatic,,co,39.671,-104.9279
+7315535025,denver,2012.0,ford,f-150 fx4,225575.0,clean,automatic,1FTFW1EFXCKD30636,co,40.182151,-105.102373
+7313451191,fort collins / north CO,2012.0,ford,f-150 lariat,194210.0,clean,automatic,1FTFW1EFXCFA11052,co,40.182151,-105.102373
+7307974614,fort collins / north CO,2012.0,ford,f-150,225575.0,clean,automatic,1FTFW1EFXCKD30636,co,40.182151,-105.102373
+7304441561,fort collins / north CO,2012.0,ford,f-150,140489.0,clean,automatic,1FTFW1EF1CFC56628,co,40.392756,-104.727851
+7314107665,pueblo,2012.0,ford,f-150 super cab,173000.0,clean,automatic,,co,38.436857,-104.617504
+7313952935,pueblo,2012.0,ford,f-150,236323.0,clean,automatic,1FTFW1ETXCFB45971,co,38.298476,-104.612853
+7314309283,western slope,2012.0,ford,"f-150 4wd supercrew 157"" fx4",198598.0,clean,automatic,1FTFW1ET9CKD74245,co,39.081944,-108.588542
+7305135026,western slope,2012.0,ford,f-150,151198.0,clean,automatic,,co,39.104,-108.452
+7308445080,eastern CT,2012.0,ford,f-150,208000.0,clean,automatic,,ct,41.5371,-72.0849
+7304810234,hartford,2012.0,ford,f-150,160000.0,clean,automatic,,ct,41.348849,-72.866217
+7313241494,new haven,2012.0,ford,f-150,160685.0,clean,automatic,1FTFW1ET7CFA62093,ct,41.582861,-73.037706
+7315290174,"washington, DC",2012.0,ford,f-150,110645.0,clean,automatic,1FTFX1EF1CFB70751,dc,38.916807,-77.469344
+7313489976,"washington, DC",2012.0,ford,f-150,127858.0,clean,automatic,1FTFW1ET0CFB31920,dc,38.481752,-77.387518
+7316367267,daytona beach,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7314923087,daytona beach,2012.0,ford,f-150 platinum 4x4,136741.0,clean,automatic,1FTFW1ET3CFB40398,fl,28.975665,-81.22961
+7308394507,daytona beach,2012.0,ford,f-150 xlt 4x4,98549.0,clean,automatic,1FTFW1ET0CFA65546,fl,27.234099,-80.829894
+7307956254,daytona beach,2012.0,ford,f-150 xlt,137397.0,clean,automatic,1FTFW1CF6CFA66505,fl,27.234099,-80.829894
+7316367440,ft myers / SW florida,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7314750901,ft myers / SW florida,2012.0,ford,f-150 xlt automatic,142601.0,clean,automatic,1FTFW1EF2CFC70716,fl,26.166925,-81.7661
+7310856278,ft myers / SW florida,2012.0,ford,f-150,69155.0,clean,automatic,1FTEX1CMXCFC70800,fl,27.26977,-82.48229
+7308394659,ft myers / SW florida,2012.0,ford,f-150 xlt 4x4,98549.0,clean,automatic,1FTFW1ET0CFA65546,fl,27.234099,-80.829894
+7307956472,ft myers / SW florida,2012.0,ford,f-150 xlt,137397.0,clean,automatic,1FTFW1CF6CFA66505,fl,27.234099,-80.829894
+7316742697,gainesville,2012.0,ford,f-150,150000.0,clean,automatic,,fl,29.6132,-82.3873
+7316367377,heartland florida,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7308394605,heartland florida,2012.0,ford,f-150 xlt 4x4,98549.0,clean,automatic,1FTFW1ET0CFA65546,fl,27.234099,-80.829894
+7307956421,heartland florida,2012.0,ford,f-150 xlt,137397.0,clean,automatic,1FTFW1CF6CFA66505,fl,27.234099,-80.829894
+7314753322,jacksonville,2012.0,ford,f-150,190000.0,clean,automatic,,fl,30.328359,-81.596974
+7314301731,jacksonville,2012.0,ford,f-150 xlt,98549.0,clean,automatic,,fl,27.5885,-80.3923
+7308031475,jacksonville,2012.0,ford,f-150 stx,129000.0,clean,automatic,1FTMF1CM4CFB81075,fl,30.313559,-81.576634
+7316428477,lakeland,2012.0,ford,f-150,204000.0,clean,automatic,,fl,27.952,-81.9257
+7313969833,lakeland,2012.0,ford,f-150,176554.0,clean,automatic,1FTFW1EF1CKD99439,fl,28.00853,-82.45974
+7313860185,lakeland,2012.0,ford,f-150,204000.0,clean,automatic,,fl,27.952,-81.9257
+7308394324,lakeland,2012.0,ford,f-150 xlt 4x4,98549.0,clean,automatic,1FTFW1ET0CFA65546,fl,27.234099,-80.829894
+7314018991,ocala,2012.0,ford,f-150,176554.0,clean,automatic,1FTFW1EF1CKD99439,fl,28.00853,-82.45974
+7307956318,ocala,2012.0,ford,f-150 xlt,137397.0,clean,automatic,1FTFW1CF6CFA66505,fl,27.234099,-80.829894
+7316407071,orlando,2012.0,ford,f-150,176554.0,clean,automatic,1FTFW1EF1CKD99439,fl,28.01567,-82.45978
+7316367336,orlando,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7315884161,orlando,2012.0,ford,f-150 raptor 4wd supercrew,1430002.0,clean,automatic,,fl,28.561,-81.7477
+7314300872,orlando,2012.0,ford,f-150 xlt,98549.0,clean,automatic,,fl,27.5885,-80.3923
+7313841944,orlando,2012.0,ford,f-150,120000.0,clean,automatic,,fl,28.547,-81.257
+7313415980,orlando,2012.0,ford,f-150,119505.0,clean,automatic,1FTFW1ET9CFB23752,fl,28.56768,-81.27661
+7313272965,orlando,2012.0,ford,f-150 platinum 4x4,136741.0,clean,automatic,1FTFW1ET3CFB40398,fl,28.975665,-81.22961
+7312327067,orlando,2012.0,ford,f-150,120000.0,clean,automatic,,fl,28.547,-81.257
+7310469142,panama city,2012.0,ford,f-150,129000.0,clean,automatic,,fl,30.4874,-84.3189
+7316349051,sarasota-bradenton,2012.0,ford,f-150,69155.0,clean,automatic,1FTEX1CMXCFC70800,fl,27.26977,-82.48229
+7315316058,sarasota-bradenton,2012.0,ford,f-150,132208.0,clean,automatic,1FTFX1EF3CFD08967,fl,27.329701,-82.530265
+7314515339,sarasota-bradenton,2012.0,ford,f-150,69155.0,clean,automatic,1FTEX1CMXCFC70800,fl,27.26977,-82.48229
+7313507537,sarasota-bradenton,2012.0,ford,f-150,69155.0,clean,automatic,1FTEX1CMXCFC70800,fl,27.26977,-82.48229
+7313339168,sarasota-bradenton,2012.0,ford,f-150,173551.0,clean,automatic,1FTFW1CF8CFB55511,fl,27.329701,-82.530265
+7311921014,sarasota-bradenton,2012.0,ford,f-150,69155.0,clean,automatic,1FTEX1CMXCFC70800,fl,27.26977,-82.48229
+7311127453,sarasota-bradenton,2012.0,ford,f-150,132000.0,clean,automatic,,fl,27.2734,-82.513847
+7311039469,sarasota-bradenton,2012.0,ford,f-150,161792.0,clean,automatic,1FTFW1CF5CFB40402,fl,27.329701,-82.530265
+7310813555,sarasota-bradenton,2012.0,ford,f-150,69155.0,clean,automatic,1FTEX1CMXCFC70800,fl,27.26977,-82.48229
+7308751787,sarasota-bradenton,2012.0,ford,f-150,173551.0,clean,automatic,1FTFW1CF8CFB55511,fl,27.329701,-82.530265
+7307727121,sarasota-bradenton,2012.0,ford,f-150,161792.0,clean,automatic,1FTFW1CF5CFB40402,fl,27.329701,-82.530265
+7316901980,south florida,2012.0,ford,f-150,,clean,automatic,1FTNF1CF1CKD65659,fl,25.863241,-80.242914
+7316367129,south florida,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7314745246,south florida,2012.0,ford,f-150,109000.0,clean,automatic,,fl,25.8744,-80.2805
+7314574751,south florida,2012.0,ford,f-150 lariat,159000.0,clean,automatic,,fl,26.0161,-80.1517
+7309164089,space coast,2012.0,ford,f-150 3.5l turbo,98000.0,clean,automatic,,fl,27.3215,-80.403
+7309265885,tallahassee,2012.0,ford,f-150,120000.0,clean,automatic,,fl,30.4335,-84.2867
+7307712048,tallahassee,2012.0,ford,f-150,120000.0,clean,automatic,,fl,30.4335,-84.2867
+7316377012,tampa bay area,2012.0,ford,f-150,176554.0,clean,automatic,1FTFW1EF1CKD99439,fl,28.01567,-82.45978
+7316367489,tampa bay area,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7316015486,tampa bay area,2012.0,ford,f-150,140982.0,clean,automatic,1FTFW1CT7CFB33845,fl,27.999033,-82.459702
+7315447152,tampa bay area,2012.0,ford,f-150,124624.0,clean,automatic,1FTFW1ET8CFC70998,fl,27.911414,-82.401974
+7314516144,tampa bay area,2012.0,ford,f-150,140982.0,clean,automatic,1FTFW1CT7CFB33845,fl,27.999033,-82.459702
+7314323156,tampa bay area,2012.0,ford,f-150,78821.0,clean,automatic,1FTFW1ET8CFB09387,fl,27.911414,-82.401974
+7314314922,tampa bay area,2012.0,ford,f-150,78821.0,clean,automatic,1FTFW1ET8CFB09387,fl,27.911414,-82.401974
+7314300377,tampa bay area,2012.0,ford,f-150 xlt,98549.0,clean,automatic,,fl,27.5885,-80.3923
+7313796750,tampa bay area,2012.0,ford,f-150,176554.0,clean,automatic,1FTFW1EF1CKD99439,fl,28.00853,-82.45974
+7313060337,tampa bay area,2012.0,ford,f-150 lariat,123456.0,clean,automatic,,fl,28.0068,-82.556
+7316367199,treasure coast,2012.0,ford,f-150 fx2,116985.0,clean,automatic,1FTFW1CF1CFC75540,fl,27.234099,-80.829894
+7315306161,treasure coast,2012.0,ford,f-150 xlt,98620.0,clean,automatic,,fl,27.2625,-80.3793
+7314302487,treasure coast,2012.0,ford,f-150 xlt,98549.0,clean,automatic,,fl,27.5885,-80.3923
+7313360615,treasure coast,2012.0,ford,f-150 fx2,170000.0,clean,automatic,1FTFW1CF7CFC70469,fl,27.24883,-80.270748
+7308394445,treasure coast,2012.0,ford,f-150 xlt 4x4,98549.0,clean,automatic,1FTFW1ET0CFA65546,fl,27.234099,-80.829894
+7316927173,atlanta,2012.0,ford,f-150,161741.0,clean,automatic,1FTFW1CF5CFB57877,ga,34.0227,-84.312
+7316646689,atlanta,2012.0,ford,f-150,193516.0,clean,automatic,1FTMF1CM4CKD79663,ga,33.552199,-84.352522
+7315974384,atlanta,2012.0,ford,f-150 fx4,148125.0,clean,automatic,,ga,33.617202,-83.927684
+7314880244,atlanta,2012.0,ford,f-150,194035.0,clean,automatic,,ga,34.0031,-84.0126
+7314302977,savannah / hinesville,2012.0,ford,f-150 xlt,98549.0,clean,automatic,,ga,27.5885,-80.3923
+7315152902,hawaii,2012.0,ford,f-150,106185.0,clean,automatic,1FTFW1R62CFA23531,hi,21.334986,-157.903554
+7316260549,boise,2012.0,ford,f-150 fx4,126968.0,clean,automatic,1FTFW1EF3CFC26711,id,45.407237,-122.625196
+7315557132,boise,2012.0,ford,f-150,144817.0,clean,automatic,1FTFW1ET0CKD74229,id,42.551296,-114.465026
+7314610148,boise,2012.0,ford,f-150,73049.0,clean,automatic,1FTFX1ET3CFA10926,id,44.0655,-116.9313
+7314469526,boise,2012.0,ford,f-150 fx4,140522.0,clean,automatic,1FTFW1ET4CFC42549,id,43.58697,-116.213403
+7314279194,boise,2012.0,ford,f-150,126037.0,clean,automatic,1FTFX1ET1CFB84686,id,43.640875,-116.654518
+7313363720,boise,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,id,45.407237,-122.625196
+7313316390,boise,2012.0,ford,f-150 xl,190688.0,clean,automatic,1FTEX1EM2CKD98159,id,43.7013,-116.4967
+7315245016,east idaho,2012.0,ford,f-150 lariat,81463.0,clean,other,1FTFW1EF9CFC35008,id,42.885063,-112.452574
+7313415171,east idaho,2012.0,ford,f-150,103458.0,clean,automatic,1FTFW1ET4CKE26087,id,45.876983,-119.293925
+7312748942,east idaho,2012.0,ford,f-150,119866.0,clean,automatic,1FTFW1ET2CFA62714,id,42.551296,-114.465026
+7311398605,east idaho,2012.0,ford,f-150,159815.0,clean,automatic,1FTFX1EFXCKD65089,id,43.681,-111.9067
+7301716264,east idaho,2012.0,ford,f-150,144817.0,clean,automatic,1FTFW1ET0CKD74229,id,42.551296,-114.465026
+7313792130,lewiston / clarkston,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,id,47.692931,-117.411632
+7313365611,lewiston / clarkston,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,id,47.714927,-116.790784
+7313071615,lewiston / clarkston,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,id,47.714927,-116.790784
+7303738254,lewiston / clarkston,2012.0,ford,f-150,103458.0,clean,automatic,1FTFW1ET4CKE26087,id,45.876983,-119.293925
+7301882018,lewiston / clarkston,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,id,47.692931,-117.411632
+7311482099,pullman / moscow,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,id,47.692931,-117.411632
+7315622728,spokane / coeur d'alene,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,id,47.692931,-117.411632
+7315029556,spokane / coeur d'alene,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,id,47.714927,-116.790784
+7314657802,spokane / coeur d'alene,2012.0,ford,f-150,123491.0,clean,automatic,1FTEX1EM0CFB65356,id,47.65658,-117.286222
+7314432837,spokane / coeur d'alene,2012.0,ford,f-150,99872.0,clean,automatic,,id,47.664705,-117.310362
+7313365612,spokane / coeur d'alene,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,id,47.714927,-116.790784
+7316817410,twin falls,2012.0,ford,f-150,144817.0,clean,automatic,1FTFW1ET0CKD74229,id,42.551296,-114.465026
+7313776701,twin falls,2012.0,ford,f-150,119866.0,clean,automatic,1FTFW1ET2CFA62714,id,42.551296,-114.465026
+7316660522,chicago,2012.0,ford,f-150,170000.0,clean,automatic,,il,41.5509,-90.4942
+7316362168,chicago,2012.0,ford,f-150,106279.0,clean,automatic,,il,41.52423,-88.098659
+7316166158,chicago,2012.0,ford,f-150,199829.0,clean,automatic,1FTFW1ET7CFB40887,il,42.337616,-88.04408
+7314878637,chicago,2012.0,ford,f-150,86064.0,clean,automatic,1FTFW1ET1CFB97649,il,42.364188,-87.864796
+7312994741,"quad cities, IA/IL",2012.0,ford,f-150 fx4,51226.0,clean,automatic,,il,41.5004,-90.5453
+7309242695,"quad cities, IA/IL",2012.0,ford,f-150,170000.0,clean,automatic,,il,41.5509,-90.4942
+7316166160,rockford,2012.0,ford,f-150,199829.0,clean,automatic,1FTFW1ET7CFB40887,il,42.337616,-88.04408
+7310937596,rockford,2012.0,ford,f-150,171074.0,clean,automatic,1FTFX1ET3CFB51995,il,42.224548,-89.028197
+7308208440,rockford,2012.0,ford,f-150,111796.0,clean,automatic,1FTFW1EF4CFB59925,il,42.337616,-88.04408
+7314433317,springfield,2012.0,ford,f-150,107056.0,clean,automatic,,il,39.7622,-89.6275
+7316257070,"st louis, MO",2012.0,ford,f-150,80198.0,clean,automatic,1FTFW1ET0CFA22034,il,38.802769,-90.75457
+7316006111,"st louis, MO",2012.0,ford,f-150,156601.0,clean,automatic,1FTMF1CM6CKD50195,il,38.58503,-89.98485
+7313904751,"st louis, MO",2012.0,ford,f-150,156601.0,clean,automatic,1FTMF1CM6CKD50195,il,38.58503,-89.98485
+7312858823,"st louis, MO",2012.0,ford,f-150,80198.0,clean,automatic,1FTFW1ET0CFA22034,il,38.802769,-90.75457
+7310338998,"st louis, MO",2012.0,ford,f-150 lariat,187540.0,clean,automatic,1FTFW1ET1CFC20461,il,38.965409,-90.959179
+7313314700,indianapolis,2012.0,ford,f-150,122675.0,clean,automatic,1FTFW1ET3CFA43203,in,40.283443,-86.020918
+7310966594,indianapolis,2012.0,ford,f-150 super cab,78641.0,clean,automatic,1FTEX1EM1CKD32573,in,39.78347,-85.806306
+7303376240,indianapolis,2012.0,ford,f-150 super cab,78641.0,clean,automatic,1FTEX1EM1CKD32573,in,39.78347,-85.806306
+7315279900,lafayette / west lafayette,2012.0,ford,f-150,290000.0,clean,automatic,,in,40.5217,-87.2526
+7316227899,des moines,2012.0,ford,f-150,205161.0,clean,automatic,1FTFW1ET5CFA74680,ia,41.600223,-93.570059
+7314726575,des moines,2012.0,ford,f-150,95000.0,clean,automatic,,ia,41.614185,-94.027591
+7314274294,des moines,2012.0,ford,f-150,167516.0,clean,automatic,1FTFW1ET2CKD45864,ia,41.636659,-93.619935
+7313994223,des moines,2012.0,ford,f-150 xl,127860.0,clean,automatic,1FTFW1ET5CFA42909,ia,41.722392,-93.600927
+7309134108,des moines,2012.0,ford,f-150 xl,127860.0,clean,automatic,1FTFW1ET5CFA42909,ia,41.722392,-93.600927
+7306854775,des moines,2012.0,ford,f-150 lariat *fr $499 down guaranteed finance 4wd,,clean,automatic,1FTFW1EF0CFC97655,ia,41.559937,-93.596556
+7306180052,des moines,2012.0,ford,f-150,171229.0,clean,automatic,1FTFW1ET7CFA86457,ia,41.600976,-93.58129
+7304108770,des moines,2012.0,ford,f-150,167516.0,clean,automatic,1FTFW1ET2CKD45864,ia,41.636659,-93.619935
+7303306717,des moines,2012.0,ford,f-150,103275.0,clean,automatic,1FTFW1EFXCKD54547,ia,41.600223,-93.69852
+7302947301,des moines,2012.0,ford,f-150,202544.0,clean,automatic,1FTFW1ET8CFA41169,ia,41.600223,-93.69852
+7311870375,omaha / council bluffs,2012.0,ford,f-150,217000.0,clean,automatic,1FTFW1EF5CFB65586,ia,41.42098,-96.49911
+7306864008,southeast IA,2012.0,ford,f-150 lariat *fr $499 down guaranteed finance 4wd,,clean,automatic,1FTFW1EF0CFC97655,ia,41.559937,-93.596556
+7316401513,waterloo / cedar falls,2012.0,ford,f-150 xlt,137400.0,clean,automatic,1FTNF1ET6CKD52103,ia,42.492521,-92.321064
+7307888711,waterloo / cedar falls,2012.0,ford,f-150,77796.0,clean,automatic,,ia,42.509902,-92.421187
+7316658840,"kansas city, MO",2012.0,ford,f-150,153942.0,clean,automatic,1FTFW1EF0CKE00001,ks,39.783173,-93.553832
+7315390704,"kansas city, MO",2012.0,ford,f-150,175207.0,clean,automatic,1FTFW1EF5CKD52883,ks,39.029278,-94.692924
+7308399086,wichita,2012.0,ford,f-150,101512.0,clean,automatic,1FTFW1CT1CKD47642,ks,37.679473,-97.335938
+7304353739,wichita,2012.0,ford,f-150,101512.0,clean,automatic,1FTFW1CT1CKD47642,ks,37.679473,-97.335938
+7302252620,wichita,2012.0,ford,f-150,150000.0,clean,automatic,,ks,35.199,-97.4841
+7316741318,lexington,2012.0,ford,f-150,83397.0,clean,automatic,1FTFW1EF7CFB16793,ky,38.219687,-84.541856
+7309156451,lexington,2012.0,ford,f-150,142317.0,clean,automatic,1FTFW1ETXCFA49810,ky,38.678459,-84.600891
+7306595859,louisville,2012.0,ford,f-150,142317.0,clean,automatic,1FTFW1ETXCFA49810,ky,38.678459,-84.600891
+7310563196,baton rouge,2012.0,ford,f-150 xl,193870.0,clean,automatic,,la,30.439912,-90.35491
+7314617727,lake charles,2012.0,ford,f-150,190000.0,clean,automatic,1FTFW1ET3CKE18563,la,30.827,-93.269
+7310539148,new orleans,2012.0,ford,f-150 xl,193870.0,clean,automatic,,la,30.43932,-90.354738
+7313400428,maine,2012.0,ford,f-150 xl 4x4,102670.0,clean,automatic,00000000000D91670,me,43.992356,-70.050167
+7310019236,maine,2012.0,ford,f-150,109291.0,clean,automatic,1FTFW1EFXCFC38080,me,42.838576,-71.10688
+7314255804,boston,2012.0,ford,f-150 fx4 supercrew,104000.0,clean,automatic,,ma,42.397906,-71.106144
+7306741448,cape cod / islands,2012.0,ford,f-150,173543.0,clean,automatic,1FTFW1EF6CFB75236,ma,41.664281,-70.273223
+7302684614,cape cod / islands,2012.0,ford,f-150,83537.0,clean,automatic,,ma,41.690278,-70.591682
+7316124123,worcester / central MA,2012.0,ford,f-150,172138.0,clean,automatic,1FTFX1ET7CFB59694,ma,42.225504,-71.762086
+7313349471,worcester / central MA,2012.0,ford,f-150,149705.0,clean,automatic,1FTFW1E60CFB19776,ma,42.15444,-71.91472
+7312782755,battle creek,2012.0,ford,f-150,128584.0,clean,automatic,,mi,43.1824,-84.1122
+7307710320,battle creek,2012.0,ford,f-150,232433.0,clean,automatic,1FTFW1ET5CFA06458,mi,43.1824,-84.1122
+7314993429,central michigan,2012.0,ford,f-150,149862.0,clean,automatic,,mi,43.1824,-84.1122
+7316906940,detroit metro,2012.0,ford,f-150 xl,101189.0,salvage,automatic,1FTMF1CM9CKD65273,mi,42.197416,-83.273364
+7316884086,detroit metro,2012.0,ford,f-150,139000.0,clean,automatic,1FTMF1CM8CKE37631,mi,42.44861,-83.0302
+7313347996,detroit metro,2012.0,ford,f-150,139000.0,clean,automatic,1FTMF1CM8CKE37631,mi,42.44861,-83.0302
+7302576637,flint,2012.0,ford,f-150,232433.0,clean,automatic,,mi,43.1824,-84.1122
+7316785084,grand rapids,2012.0,ford,f-150,149862.0,clean,automatic,,mi,43.1824,-84.1122
+7316138483,grand rapids,2012.0,ford,f-150 fx4 4d supercrew automatic,148755.0,clean,automatic,1FTFW1ET1CKD66527,mi,43.04587,-85.6071
+7315748808,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7315064227,grand rapids,2012.0,ford,f-150,131611.0,clean,automatic,1FTFW1ET3CKD66108,mi,43.05921,-85.68897
+7314004569,grand rapids,2012.0,ford,f-150,171309.0,clean,automatic,,mi,42.8016,-85.7136
+7313964155,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7312754608,grand rapids,2012.0,ford,f-150,131611.0,clean,automatic,1FTFW1ET3CKD66108,mi,43.05921,-85.68897
+7311580807,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7311549469,grand rapids,2012.0,ford,f-150,131611.0,clean,automatic,1FTFW1ET3CKD66108,mi,43.05921,-85.68897
+7309473781,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7308697682,grand rapids,2012.0,ford,f-150,131611.0,clean,automatic,1FTFW1ET3CKD66108,mi,43.05921,-85.68897
+7307844201,grand rapids,2012.0,ford,f-150,139700.0,lien,automatic,,mi,42.9737,-85.7265
+7307418986,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7305776727,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7303787969,grand rapids,2012.0,ford,f-150,145809.0,clean,automatic,,mi,43.1824,-84.1122
+7303322256,grand rapids,2012.0,ford,f-150,142220.0,clean,automatic,1FTFW1R61CFA64751,mi,42.914352,-85.730042
+7306823776,holland,2012.0,ford,f-150,232433.0,clean,automatic,1FTFW1ET5CFA06458,mi,43.1824,-84.1122
+7314810953,jackson,2012.0,ford,f-150,232433.0,clean,automatic,1FTFW1ET5CFA06458,mi,43.1824,-84.1122
+7310993306,kalamazoo,2012.0,ford,f-150,232433.0,clean,automatic,1FTFW1ET5CFA06458,mi,43.1824,-84.1122
+7302238776,kalamazoo,2012.0,ford,f-150,145809.0,clean,automatic,,mi,43.1824,-84.1122
+7303788946,lansing,2012.0,ford,f-150,145809.0,clean,automatic,,mi,43.1824,-84.1122
+7309250351,monroe,2012.0,ford,f-150,232433.0,clean,automatic,1FTFW1ET5CFA06458,mi,43.1824,-84.1122
+7308248928,muskegon,2012.0,ford,f-150,232433.0,clean,automatic,1FTFW1ET5CFA06458,mi,43.1824,-84.1122
+7314993872,saginaw-midland-baycity,2012.0,ford,f-150,149862.0,clean,automatic,,mi,43.1824,-84.1122
+7306870583,saginaw-midland-baycity,2012.0,ford,f-150,232433.0,clean,automatic,,mi,43.1824,-84.1122
+7302238720,saginaw-midland-baycity,2012.0,ford,f-150,145809.0,clean,automatic,,mi,43.1824,-84.1122
+7316785011,the thumb,2012.0,ford,f-150,149862.0,clean,automatic,,mi,43.1824,-84.1122
+7311495453,the thumb,2012.0,ford,f-150,232433.0,clean,automatic,,mi,43.1824,-84.1122
+7315355326,bemidji,2012.0,ford,f-150 xl,220000.0,clean,automatic,,mn,47.4531,-94.8631
+7312799149,duluth / superior,2012.0,ford,f-150 lariat,153006.0,clean,automatic,1FTFW1EFXCFB36195,mn,45.302165,-92.970042
+7315503469,fargo / moorhead,2012.0,ford,f-150,179547.0,clean,automatic,1FTFX1ET9CFC41653,mn,46.842209,-96.769064
+7313635579,fargo / moorhead,2012.0,ford,f-150,157000.0,lien,automatic,1FTFW1ET2CFB57953,mn,46.2258,-97.6626
+7309535034,fargo / moorhead,2012.0,ford,f-150,184460.0,clean,automatic,1FTFW1ET0CKD43479,mn,46.842209,-96.769064
+7304667669,mankato,2012.0,ford,f-150,111572.0,clean,automatic,1FTFW1ET5CKD64389,mn,43.651759,-94.452864
+7316890119,minneapolis / st paul,2012.0,ford,f-150,188406.0,clean,automatic,1FTFW1ET4CFC98801,mn,45.683596,-92.964836
+7315727883,minneapolis / st paul,2012.0,ford,f-150 4x4 lariet,163139.0,clean,automatic,,mn,44.920707,-93.426232
+7315638408,minneapolis / st paul,2012.0,ford,f-150,92000.0,lien,automatic,,mn,45.2409,-94.0152
+7304000607,rochester,2012.0,ford,f-150,107627.0,clean,automatic,,mn,44.0496,-92.4896
+7304883648,jackson,2012.0,ford,f-150,180875.0,clean,automatic,,ms,32.30802,-89.992232
+7302117022,bozeman,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,mt,45.407237,-122.625196
+7315029821,kalispell,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7315029561,kalispell,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7313365615,kalispell,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7313071728,kalispell,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7316540818,missoula,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,mt,47.692931,-117.411632
+7315029805,missoula,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7313365614,missoula,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7313071727,missoula,2012.0,ford,f-150,34585.0,clean,automatic,1FTFW1EF6CFC65308,mt,47.714927,-116.790784
+7305263725,missoula,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,mt,47.692931,-117.411632
+7316569945,asheville,2012.0,ford,f-150,90549.0,clean,automatic,,nc,35.810648,-82.669716
+7308198825,asheville,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7315256545,charlotte,2012.0,ford,f-150,40274.0,clean,automatic,1FTMF1CM1CKD12230,nc,35.20869,-80.66924
+7314375976,charlotte,2012.0,ford,f-150,,clean,automatic,,nc,35.2172,-81.1252
+7311690696,charlotte,2012.0,ford,f-150,172000.0,clean,automatic,,nc,35.269115,-80.806358
+7311517272,charlotte,2012.0,ford,f-150,100.0,clean,automatic,1FTFX1EF3CFA54984,nc,36.12954,-79.95752
+7310853089,charlotte,2012.0,ford,f-150,174844.0,clean,automatic,1FTFW1ET4CFC69086,nc,35.529642,-80.610201
+7308203827,charlotte,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7310663526,eastern NC,2012.0,ford,f-150,177000.0,clean,automatic,,nc,35.5786,-77.393
+7310298414,eastern NC,2012.0,ford,f-150,150555.0,clean,automatic,,nc,34.727,-77.32
+7311517484,fayetteville,2012.0,ford,f-150,100.0,clean,automatic,1FTFX1EF3CFA54984,nc,36.12954,-79.95752
+7313329155,greensboro,2012.0,ford,f-150,190500.0,salvage,automatic,,nc,36.1032,-79.8794
+7311517143,greensboro,2012.0,ford,f-150,100.0,clean,automatic,1FTFX1EF3CFA54984,nc,36.12954,-79.95752
+7308209035,greensboro,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7310410903,hickory / lenoir,2012.0,ford,f-150,227000.0,clean,automatic,,nc,35.9149,-81.5398
+7308213878,hickory / lenoir,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7308218778,jacksonville,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7315558917,raleigh / durham / CH,2012.0,ford,f-150,125000.0,clean,automatic,,nc,35.4069,-78.4281
+7313279707,raleigh / durham / CH,2012.0,ford,f-150,186000.0,clean,automatic,1FTNF1CF9CKD16743,nc,35.592323,-78.79448
+7311517386,raleigh / durham / CH,2012.0,ford,f-150,100.0,clean,automatic,1FTFX1EF3CFA54984,nc,36.12954,-79.95752
+7311285975,raleigh / durham / CH,2012.0,ford,f-150 crew 4x4 lariat,122300.0,clean,automatic,,nc,35.72116,-78.641682
+7308223970,raleigh / durham / CH,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7312556731,winston-salem,2012.0,ford,f-150 xlt,177000.0,clean,automatic,,nc,36.144,-80.2376
+7308229101,winston-salem,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,nc,,
+7306678978,winston-salem,2012.0,ford,f-150 xlt 4x4,114000.0,clean,automatic,,nc,35.936572,-80.236597
+7302610685,grand island,2012.0,ford,f-150,131528.0,clean,automatic,1FTFW1ET8CFC77644,ne,41.438366,-97.316899
+7311700903,lincoln,2012.0,ford,f-150,136598.0,salvage,automatic,,ne,40.78678,-96.687927
+7316342851,las vegas,2012.0,ford,f-150,124522.0,clean,automatic,,nv,36.124,-116.005
+7314706354,central NJ,2012.0,ford,f-150,130662.0,clean,automatic,1FTFW1EF0CFA74886,nj,40.251,-74.7627
+7307766195,central NJ,2012.0,ford,f-150,157755.0,clean,automatic,1FTFW1EF5CFA61373,nj,40.043135,-74.221945
+7306050561,central NJ,2012.0,ford,f-150 xl,116185.0,clean,automatic,1FTMF1CM0CKD41380,nj,39.9999,-74.2228
+7313987851,north jersey,2012.0,ford,f-150,219866.0,clean,automatic,1FTFX1EFXCKD01649,nj,40.862572,-74.096558
+7317033721,south jersey,2012.0,ford,f-150,170100.0,clean,automatic,,nj,36.944935,-95.900725
+7311676630,south jersey,2012.0,ford,f-150,170100.0,clean,automatic,,nj,36.944935,-95.900725
+7311552036,south jersey,2012.0,ford,f-150,122920.0,clean,automatic,1FTFW1ET8CFB05520,nj,39.938023,-74.971461
+7310460500,south jersey,2012.0,ford,f-150,122920.0,clean,automatic,1FTFW1ET8CFB05520,nj,39.938023,-74.971461
+7309312571,south jersey,2012.0,ford,f-150,122920.0,clean,automatic,1FTFW1ET8CFB05520,nj,39.938023,-74.971461
+7305224090,south jersey,2012.0,ford,f-150,170100.0,clean,automatic,,nj,36.944935,-95.900725
+7315883100,albuquerque,2012.0,ford,f-150 raptor svt,61940.0,clean,automatic,1FTFW1R64CFA43604,nm,35.9872,-106.0717
+7314844879,albuquerque,2012.0,ford,f-150 2wd supercab 145 xl,167371.0,clean,automatic,1FTFX1CF5CFA56979,nm,35.087258,-106.564157
+7313210962,albuquerque,2012.0,ford,f-150,150500.0,clean,automatic,,nm,35.1742,-106.5599
+7313131789,albuquerque,2012.0,ford,f-150,135495.0,clean,automatic,1FTFW1ET7CFA15291,nm,39.73995,-105.088307
+7310909687,albuquerque,2012.0,ford,f-150 2wd supercab 145 xl,167371.0,clean,automatic,1FTFX1CF5CFA56979,nm,35.087258,-106.564157
+7313310770,buffalo,2012.0,ford,f-150,129500.0,clean,automatic,1FTFW1EF9CFA73378,ny,43.002421,-77.667238
+7312744718,buffalo,2012.0,ford,f-150 4x4 supercab,70496.0,clean,automatic,1FTFX1EF9CFC72640,ny,42.989612,-78.87321
+7309796300,buffalo,2012.0,ford,f-150 4x4 supercab,70496.0,clean,automatic,1FTFX1EF9CFC72640,ny,42.989612,-78.87321
+7305738027,buffalo,2012.0,ford,f-150 4x4 supercab,70496.0,clean,automatic,1FTFX1EF9CFC72640,ny,42.989612,-78.87321
+7313310038,elmira-corning,2012.0,ford,f-150,129500.0,clean,automatic,1FTFW1EF9CFA73378,ny,43.002421,-77.667238
+7311932320,long island,2012.0,ford,f-150,78832.0,clean,automatic,1FTFW1ET7CKD91822,ny,40.623019,-73.73873
+7311932241,long island,2012.0,ford,f-150,88021.0,clean,automatic,1FTFW1ETXCKD90406,ny,40.623019,-73.73873
+7315266678,rochester,2012.0,ford,f-150 xlt,101030.0,clean,automatic,1FTFX1EF9CFC05942,ny,43.160036,-77.593989
+7313309461,rochester,2012.0,ford,f-150,129500.0,clean,automatic,1FTFW1EF9CFA73378,ny,43.002421,-77.667238
+7313042145,syracuse,2012.0,ford,f-150,130000.0,clean,automatic,,ny,43.073,-76.1486
+7316561268,akron / canton,2012.0,ford,f-150,140257.0,clean,automatic,1FTFW1ET8CFC52517,oh,41.124422,-81.8943
+7308170008,ashtabula,2012.0,ford,f-150,150725.0,clean,automatic,1FTFX1EFXCKD03370,oh,41.8018,-81.048149
+7306571574,ashtabula,2012.0,ford,f-150,126897.0,clean,automatic,1FTFW1ET9CFB19166,oh,41.8018,-81.048149
+7311423401,chillicothe,2012.0,ford,f-150,195598.0,clean,automatic,1FTFW1ET9CFB53124,oh,39.337094,-82.949176
+7316222603,cincinnati,2012.0,ford,f-150,142317.0,clean,automatic,1FTFW1ETXCFA49810,oh,38.678459,-84.600891
+7311403803,cincinnati,2012.0,ford,f-150,,clean,automatic,,oh,39.338,-82.9895
+7308401074,cincinnati,2012.0,ford,f-150,201000.0,clean,automatic,1FTPF1CT9CKD31418,oh,39.344248,-84.538508
+7305087303,cincinnati,2012.0,ford,f-150,142317.0,clean,automatic,1FTFW1ETXCFA49810,oh,38.678459,-84.600891
+7316561245,cleveland,2012.0,ford,f-150,140257.0,clean,automatic,1FTFW1ET8CFC52517,oh,41.124422,-81.8943
+7310246644,cleveland,2012.0,ford,f-150,179700.0,clean,automatic,1FTFW1ET1CKD77334,oh,41.56995,-81.574738
+7308167232,cleveland,2012.0,ford,f-150,150725.0,clean,automatic,1FTFX1EFXCKD03370,oh,41.8018,-81.048149
+7304578210,cleveland,2012.0,ford,f-150,126897.0,clean,automatic,1FTFW1ET9CFB19166,oh,41.8018,-81.048149
+7304058701,cleveland,2012.0,ford,f-150,147395.0,clean,automatic,1FTFX1EFXCKD03370,oh,41.56995,-81.574738
+7316971926,columbus,2012.0,ford,f-150,135715.0,clean,automatic,1FTFW1ET8CFA93692,oh,39.79428,-82.703498
+7316561287,columbus,2012.0,ford,f-150,140257.0,clean,automatic,1FTFW1ET8CFC52517,oh,41.124422,-81.8943
+7314743576,columbus,2012.0,ford,f-150,150204.0,clean,automatic,1FTNF1CF0CKD54250,oh,39.942263,-82.833604
+7312666457,columbus,2012.0,ford,f-150,150204.0,clean,automatic,,oh,39.942263,-82.833604
+7311413649,columbus,2012.0,ford,f-150,195598.0,clean,automatic,1FTFW1ET9CFB53124,oh,39.337094,-82.949176
+7311284890,columbus,2012.0,ford,f-150,150204.0,clean,automatic,,oh,39.942263,-82.833604
+7309651685,columbus,2012.0,ford,f-150,150204.0,clean,automatic,,oh,39.942263,-82.833604
+7304573768,columbus,2012.0,ford,f-150,147395.0,clean,automatic,1FTFX1EFXCKD03370,oh,41.56995,-81.574738
+7311433166,dayton / springfield,2012.0,ford,f-150,195598.0,clean,automatic,1FTFW1ET9CFB53124,oh,39.337094,-82.949176
+7309227070,sandusky,2012.0,ford,f-150,98621.0,clean,automatic,1FTFW1ET7CFA90122,oh,41.62151,-83.493576
+7309301816,toledo,2012.0,ford,f-150,98621.0,clean,automatic,1FTFW1ET7CFA90122,oh,41.62151,-83.493576
+7309360187,youngstown,2012.0,ford,f-150,116738.0,clean,automatic,,oh,40.9922,-80.3284
+7305631700,youngstown,2012.0,ford,f-150,116738.0,clean,automatic,,oh,40.9922,-80.3284
+7316778188,lawton,2012.0,ford,f-150,185832.0,clean,automatic,1FTEX1CM5CFA81231,ok,34.19709,-97.16056
+7316775969,oklahoma city,2012.0,ford,f-150,185832.0,clean,automatic,1FTEX1CM5CFA81231,ok,34.19709,-97.16056
+7316341516,oklahoma city,2012.0,ford,f-150,160434.0,clean,automatic,1FTFW1R6XCFC02691,ok,35.71996,-96.95391
+7313133282,oklahoma city,2012.0,ford,f-150,130000.0,clean,automatic,,ok,35.722,-97.5133
+7310421925,oklahoma city,2012.0,ford,f-150,175518.0,clean,automatic,1FTFW1ET4CFA12767,ok,35.71996,-96.95391
+7316703996,stillwater,2012.0,ford,f-150,160434.0,clean,automatic,1FTFW1R6XCFC02691,ok,35.71996,-96.95391
+7310500124,stillwater,2012.0,ford,f-150,175518.0,clean,automatic,1FTFW1ET4CFA12767,ok,35.71996,-96.95391
+7316778114,texoma,2012.0,ford,f-150,185832.0,clean,automatic,1FTEX1CM5CFA81231,ok,34.19709,-97.16056
+7316335631,tulsa,2012.0,ford,f-150,160434.0,clean,automatic,1FTFW1R6XCFC02691,ok,35.71996,-96.95391
+7315641770,tulsa,2012.0,ford,f-150,109000.0,clean,automatic,,ok,36.105608,-95.815424
+7310426441,tulsa,2012.0,ford,f-150,175518.0,clean,automatic,1FTFW1ET4CFA12767,ok,35.71996,-96.95391
+7310141644,tulsa,2012.0,ford,f-150,126907.0,clean,automatic,1FTFW1ETXCKD53193,ok,36.062162,-95.797464
+7302252616,tulsa,2012.0,ford,f-150,150000.0,clean,automatic,,ok,35.199,-97.4841
+7315333795,bend,2012.0,ford,f-150,110128.0,clean,automatic,1FTFW1ET2CKD48456,or,45.509778,-122.967379
+7314319175,bend,2012.0,ford,f-150,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7313410669,bend,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7311823044,bend,2012.0,ford,f-150,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7310378711,bend,2012.0,ford,f-150,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7308258618,bend,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7315849095,corvallis/albany,2012.0,ford,f-150,108195.0,clean,automatic,1FTFW1ET2CFB03987,or,44.572566,-123.258594
+7311453241,corvallis/albany,2012.0,ford,f-150,109251.0,clean,automatic,1FTFW1ET6CFA31692,or,44.572566,-123.258594
+7306652676,corvallis/albany,2012.0,ford,f-150,108410.0,clean,automatic,1FTEW1CM3CFC36412,or,45.509778,-122.967379
+7303845192,corvallis/albany,2012.0,ford,f-150,110128.0,clean,automatic,1FTFW1ET2CKD48456,or,45.509778,-122.967379
+7316709569,east oregon,2012.0,ford,f-150,110128.0,clean,automatic,1FTFW1ET2CKD48456,or,45.509778,-122.967379
+7315777554,east oregon,2012.0,ford,f-150,155386.0,clean,automatic,1FTFW1EF8CKE10727,or,45.509778,-122.967379
+7304478674,east oregon,2012.0,ford,f-150,125047.0,clean,automatic,1FTFW1EF9CFB48550,or,45.48814,-122.579537
+7303098854,east oregon,2012.0,ford,f-150,108410.0,clean,automatic,1FTEW1CM3CFC36412,or,45.509778,-122.967379
+7312296324,eugene,2012.0,ford,f-150,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7310378852,eugene,2012.0,ford,f-150,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7308324878,medford-ashland,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7304363140,medford-ashland,2012.0,ford,f-150,108410.0,clean,automatic,1FTEW1CM3CFC36412,or,45.509778,-122.967379
+7304460126,oregon coast,2012.0,ford,f-150,125047.0,clean,automatic,1FTFW1EF9CFB48550,or,45.48814,-122.579537
+7317056412,portland,2012.0,ford,f-150 fx4,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7317048904,portland,2012.0,ford,f-150 svt raptor,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7317028593,portland,2012.0,ford,f-150,143000.0,clean,automatic,1FTFW1ET8CKE37027,or,45.546985,-122.387375
+7316752369,portland,2012.0,ford,f-150,78937.0,clean,automatic,1FTFW1ET5CFC36520,or,45.4094,-122.8014
+7316709833,portland,2012.0,ford,f-150,108410.0,clean,automatic,1FTEW1CM3CFC36412,or,45.509778,-122.967379
+7316539397,portland,2012.0,ford,f-150,89548.0,clean,automatic,1FTFW1R68CFA38051,or,45.379929,-122.583757
+7316502172,portland,2012.0,ford,f-150 fx4,148484.0,clean,automatic,1FTFW1EF1CKE12447,or,45.510365,-122.577942
+7316314323,portland,2012.0,ford,f-150 fx4,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7316244404,portland,2012.0,ford,f-150 lariat,101898.0,clean,automatic,1FTFW1ET0CFB18634,or,45.518765,-122.997197
+7316270037,salem,2012.0,ford,f-150,98312.0,clean,automatic,1FTFW1EF4CFB65806,or,44.973187,-123.018138
+7315594993,salem,2012.0,ford,f-150 xlt,,clean,automatic,1FTFW1ETXCFB43766,or,44.949603,-122.995477
+7315111298,salem,2012.0,ford,f-150 xlt,45853.0,clean,automatic,1FTFX1EF8CFA90962,or,44.819991,-122.799701
+7314659056,salem,2012.0,ford,f-150 platinum,100772.0,clean,automatic,1FTFW1ET2CFB18330,or,44.943966,-122.991841
+7314632483,salem,2012.0,ford,f-150,159177.0,clean,automatic,1FTFW1ETXCFB43766,or,44.949603,-122.995477
+7313911392,salem,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7312170777,salem,2012.0,ford,f-150,159177.0,clean,automatic,1FTFW1ETXCFB43766,or,44.949603,-122.995477
+7311913992,salem,2012.0,ford,f-150,45853.0,clean,automatic,1FTFX1EF8CFA90962,or,44.819991,-122.799701
+7311171451,salem,2012.0,ford,f-150,159177.0,clean,automatic,1FTFW1ETXCFB43766,or,44.949603,-122.995477
+7311139197,salem,2012.0,ford,f-150 platinum,100772.0,clean,automatic,1FTFW1ET2CFB18330,or,44.943966,-122.991841
+7310421772,salem,2012.0,ford,f-150,57174.0,clean,automatic,1FTFW1EF7CKD89823,or,44.973187,-123.018138
+7309901076,salem,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,or,45.407237,-122.625196
+7308069745,salem,2012.0,ford,f-150,159177.0,clean,automatic,1FTFW1ETXCFB43766,or,44.949603,-122.995477
+7307527133,salem,2012.0,ford,f-150,159177.0,clean,automatic,1FTFW1ETXCFB43766,or,44.949603,-122.995477
+7314723175,erie,2012.0,ford,f-150,150725.0,clean,automatic,1FTFX1EFXCKD03370,pa,41.8018,-81.048149
+7309140226,erie,2012.0,ford,f-150,150725.0,clean,automatic,1FTFX1EFXCKD03370,pa,41.8018,-81.048149
+7305537053,erie,2012.0,ford,f-150,126897.0,clean,automatic,1FTFW1ET9CFB19166,pa,41.8018,-81.048149
+7303050370,erie,2012.0,ford,f-150,147395.0,clean,automatic,1FTFX1EFXCKD03370,pa,41.56995,-81.574738
+7302741901,lehigh valley,2012.0,ford,f-150,194000.0,clean,automatic,,pa,40.682166,-75.545003
+7316672593,philadelphia,2012.0,ford,f-150,176000.0,clean,automatic,,pa,40.1547,-74.9904
+7309250155,pittsburgh,2012.0,ford,f-150,116738.0,clean,automatic,,pa,40.976498,-80.28893
+7305637718,pittsburgh,2012.0,ford,f-150,116738.0,clean,automatic,,pa,40.976498,-80.28893
+7305568997,pittsburgh,2012.0,ford,f-150,179700.0,clean,automatic,1FTFW1ET1CKD77334,pa,41.56995,-81.574738
+7303753654,poconos,2012.0,ford,f-150,146102.0,clean,automatic,1FTFW1ET9CFA96200,pa,40.13519,-74.70357
+7314923707,york,2012.0,ford,f-150,190149.0,clean,automatic,1FTFW1ET9CKD65125,pa,39.99948,-76.624175
+7303036986,rhode island,2012.0,ford,f-150,156686.0,clean,automatic,1FTFW1ET2CFC86646,ri,42.225504,-71.762086
+7315598504,columbia,2012.0,ford,f-150 lariat 4x4,165800.0,clean,automatic,1FTFW1EF6CFA67537,sc,34.1103,-81.1966
+7308234410,columbia,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,sc,,
+7308240283,greenville / upstate,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,sc,,
+7307261823,greenville / upstate,2012.0,ford,f-150 xlt 4x2supercrew,151191.0,,automatic,1FTFW1CF1CKD79517,sc,34.708828,-82.494924
+7313783742,memphis,2012.0,ford,f-150,131119.0,clean,automatic,,tn,35.053175,-89.862635
+7307385100,memphis,2012.0,ford,f-150,52977.0,clean,automatic,1FTFW1EF8CFC42323,tn,34.97774,-91.52195
+7305034521,memphis,2012.0,ford,f-150,107726.0,clean,automatic,1FTFW1ET4CFC95039,tn,35.077834,-89.88533
+7317044047,nashville,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,tn,35.59352,-87.05396
+7315988611,nashville,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,tn,35.59352,-87.05396
+7313970836,nashville,2012.0,ford,f-150,111770.0,,automatic,1FTFW1CF7CFC03905,tn,36.138022,-86.732261
+7312887727,nashville,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,tn,35.59352,-87.05396
+7311309045,nashville,2012.0,ford,f-150,102939.0,clean,automatic,1FTEW1CM2CF832656,tn,35.842389,-86.391532
+7311159722,nashville,2012.0,ford,f-150,159936.0,clean,automatic,1FTFW1EFXCFA35206,tn,35.59352,-87.05396
+7310985566,nashville,2012.0,ford,f-150,111770.0,,automatic,1FTFW1CF7CFC03905,tn,36.138022,-86.732261
+7316264923,austin,2012.0,ford,f-150,148000.0,salvage,automatic,1FTFX1ET1CFA04249,tx,30.232811,-97.740688
+7314257635,austin,2012.0,ford,f-150 xlt automatic,89330.0,clean,automatic,1FTEW1CM4CKE31636,tx,30.08502,-97.81943
+7312517783,austin,2012.0,ford,f-150,148000.0,salvage,automatic,1FTFX1ET1CFA04249,tx,30.232811,-97.740688
+7313274394,corpus christi,2012.0,ford,f-150,150666.0,clean,automatic,,tx,27.703573,-97.345045
+7317038614,dallas / fort worth,2012.0,ford,f-150,151000.0,clean,automatic,,tx,32.812789,-96.921117
+7316770856,dallas / fort worth,2012.0,ford,f-150,185832.0,clean,automatic,1FTEX1CM5CFA81231,tx,34.19709,-97.16056
+7311555412,el paso,2012.0,ford,f-150,146314.0,clean,automatic,1FTFW1ET5CFA70614,tx,31.732128,-106.36604
+7311553842,el paso,2012.0,ford,f-150,117519.0,clean,automatic,1FTFW1ET2CFB04489,tx,31.732128,-106.36604
+7308518904,el paso,2012.0,ford,f-150,162648.0,clean,automatic,1FTFW1ET5CKE33291,tx,31.729288,-106.361985
+7315322005,galveston,2012.0,ford,f-150,59256.0,clean,automatic,1FTMF1CM8CKE37578,tx,29.164855,-95.440254
+7302764607,galveston,2012.0,ford,f-150,59256.0,clean,automatic,1FTMF1CM8CKE37578,tx,29.164855,-95.440254
+7316880829,houston,2012.0,ford,f-150,131342.0,clean,automatic,1FTFW1E63CFA86465,tx,29.72156,-95.524841
+7315721670,houston,2012.0,ford,f-150,127072.0,clean,automatic,1FTFW1CF8CFC19739,tx,29.785657,-95.46959
+7315501877,houston,2012.0,ford,f-150 xlt,100504.0,clean,automatic,,tx,29.7422,-95.4903
+7315452467,houston,2012.0,ford,f-150,60055.0,clean,automatic,1FTFW1E68CFB51813,tx,29.98926,-95.49705
+7315447206,houston,2012.0,ford,f-150,60055.0,clean,automatic,1FTFW1E68CFB51813,tx,29.98926,-95.49705
+7315330560,houston,2012.0,ford,f-150,59256.0,clean,automatic,1FTMF1CM8CKE37578,tx,29.164855,-95.440254
+7314952163,houston,2012.0,ford,f-150,120531.0,clean,automatic,,tx,29.89036,-95.392527
+7313870181,mcallen / edinburg,2012.0,ford,f-150,229394.0,clean,automatic,,tx,26.178178,-98.249756
+7313239138,mcallen / edinburg,2012.0,ford,f-150 platinum,63183.0,clean,automatic,1FTFW1ET8CFB34967,tx,26.201159,-98.317991
+7308521503,odessa / midland,2012.0,ford,f-150,162648.0,clean,automatic,1FTFW1ET5CKE33291,tx,31.729288,-106.361985
+7314398891,san antonio,2012.0,ford,f-150,104160.0,clean,automatic,1FTEW1CM7CFA41123,tx,29.53723,-98.4147
+7313854893,san antonio,2012.0,ford,f-150 xlt,96884.0,clean,automatic,1FTFW1EF6CFC96767,tx,29.522695,-98.638685
+7310786584,san antonio,2012.0,ford,f-150,104160.0,clean,automatic,1FTEW1CM7CFA41123,tx,29.53723,-98.4147
+7310762542,san antonio,2012.0,ford,f-150,156087.0,clean,automatic,1FTFW1ET1CFC76285,tx,29.53723,-98.4147
+7310762343,san antonio,2012.0,ford,f-150,156087.0,clean,automatic,1FTFW1ET1CFC76285,tx,29.53723,-98.4147
+7314753223,tyler / east TX,2012.0,ford,f-150,12345.0,clean,automatic,,tx,32.28899,-95.354548
+7302555494,tyler / east TX,2012.0,ford,f-150,164865.0,clean,automatic,1FTFW1CT9CKD51728,tx,32.734707,-94.942031
+7314771823,waco,2012.0,ford,f-150,98630.0,clean,automatic,1FTFW1ET6CFB72245,tx,31.453771,-97.384453
+7316778260,wichita falls,2012.0,ford,f-150,185832.0,clean,automatic,1FTEX1CM5CFA81231,tx,34.19709,-97.16056
+7302252632,wichita falls,2012.0,ford,f-150,150000.0,clean,automatic,,tx,35.199,-97.4841
+7316991454,ogden-clearfield,2012.0,ford,f-150 lariat,81463.0,clean,other,1FTFW1EF9CFC35008,ut,42.885063,-112.452574
+7302150004,danville,2012.0,ford,f-150,200000.0,clean,automatic,,va,36.6596,-79.712
+7315765341,norfolk / hampton roads,2012.0,ford,f-150,89665.0,clean,automatic,1FTFW1ET9CFA92146,va,36.90458,-76.1336
+7314338815,norfolk / hampton roads,2012.0,ford,f-150,89665.0,clean,automatic,1FTFW1ET9CFA92146,va,36.90458,-76.1336
+7305530069,norfolk / hampton roads,2012.0,ford,f-150,114139.0,clean,automatic,1FTFW1ET9CFC74848,va,36.91802,-76.20042
+7308245959,southwest VA,2012.0,ford,f-150,147155.0,clean,automatic,1FTFW1ET5CFC33374,va,,
+7315821001,kennewick-pasco-richland,2012.0,ford,f-150,103458.0,clean,automatic,1FTFW1ET4CKE26087,wa,45.876983,-119.293925
+7314299281,kennewick-pasco-richland,2012.0,ford,f-150,155386.0,clean,automatic,1FTFW1EF8CKE10727,wa,45.509778,-122.967379
+7308257311,kennewick-pasco-richland,2012.0,ford,f-150,103081.0,clean,automatic,1FTFW1ET4CFC05078,wa,46.24078,-119.12479
+7307542091,kennewick-pasco-richland,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,wa,47.692931,-117.411632
+7306060815,kennewick-pasco-richland,2012.0,ford,f-150 xlt supercrew 6.5-ft. bed 4wd,127727.0,,automatic,1FTFW1EF1CFC85207,wa,46.609386,-120.518686
+7305723532,kennewick-pasco-richland,2012.0,ford,f-150,103458.0,clean,automatic,1FTFW1ET4CKE26087,wa,45.876983,-119.293925
+7305603740,kennewick-pasco-richland,2012.0,ford,f-150,108410.0,clean,automatic,1FTEW1CM3CFC36412,wa,45.509778,-122.967379
+7315315320,moses lake,2012.0,ford,f-150,103081.0,clean,automatic,1FTFW1ET4CFC05078,wa,46.24078,-119.12479
+7306060876,moses lake,2012.0,ford,f-150 xlt supercrew 6.5-ft. bed 4wd,127727.0,,automatic,1FTFW1EF1CFC85207,wa,46.609386,-120.518686
+7302558984,moses lake,2012.0,ford,f-150,93781.0,clean,automatic,1FTFW1E60CFA61989,wa,47.692931,-117.411632
+7316942980,seattle-tacoma,2012.0,ford,f-150,82414.0,clean,automatic,1FTFW1ET2CFB88877,wa,47.196359,-122.20819
+7316892013,seattle-tacoma,2012.0,ford,f-150 fx4,101010.0,clean,automatic,1FTFW1ET7CFC27432,wa,47.197897,-122.484256
+7316856943,seattle-tacoma,2012.0,ford,f-150 fx4,101010.0,clean,automatic,1FTFW1ET7CFC27432,wa,47.197897,-122.484256
+7316752034,seattle-tacoma,2012.0,ford,f-150,78937.0,clean,automatic,1FTFW1ET5CFC36520,wa,45.4094,-122.8014
+7316432755,seattle-tacoma,2012.0,ford,f-150,173360.0,clean,automatic,1FTFW1ET4CFA30296,wa,47.157009,-122.434148
+7316311201,seattle-tacoma,2012.0,ford,f-150 fx4,126968.0,clean,automatic,1FTFW1EF3CFC26711,wa,45.407237,-122.625196
+7306060974,wenatchee,2012.0,ford,f-150 xlt supercrew 6.5-ft. bed 4wd,127727.0,,automatic,1FTFW1EF1CFC85207,wa,46.609386,-120.518686
+7314366068,yakima,2012.0,ford,f-150,126968.0,clean,automatic,1FTFW1EF3CFC26711,wa,45.407237,-122.625196
+7312782614,yakima,2012.0,ford,f-150,110128.0,clean,automatic,1FTFW1ET2CKD48456,wa,45.509778,-122.967379
+7312755501,yakima,2012.0,ford,f-150,193303.0,clean,automatic,1FTFW1ET6CFC37739,wa,46.580296,-120.49273
+7308770292,yakima,2012.0,ford,f-150,108410.0,clean,automatic,1FTEW1CM3CFC36412,wa,45.509778,-122.967379
+7308338674,yakima,2012.0,ford,f-150,103458.0,clean,automatic,1FTFW1ET4CKE26087,wa,45.876983,-119.293925
+7306061013,yakima,2012.0,ford,f-150 xlt supercrew 6.5-ft. bed 4wd,127727.0,,automatic,1FTFW1EF1CFC85207,wa,46.609386,-120.518686
+7304108098,yakima,2012.0,ford,f-150,211214.0,clean,automatic,1FTMF1EM7CFC82527,wa,46.580296,-120.49273
+7303591497,yakima,2012.0,ford,f-150,193303.0,clean,automatic,1FTFW1ET6CFC37739,wa,46.580296,-120.49273
+7311443449,charleston,2012.0,ford,f-150,195598.0,clean,automatic,1FTFW1ET9CFB53124,wv,39.33461,-82.949321
+7311248521,morgantown,2012.0,ford,f-150 xlt,260000.0,clean,automatic,,wv,39.493234,-80.023279
+7316427954,appleton-oshkosh-FDL,2012.0,ford,f-150,122607.0,clean,automatic,1FTFW1ETXCFB66318,wi,43.790599,-88.446483
+7308198543,appleton-oshkosh-FDL,2012.0,ford,f-150,86805.0,clean,automatic,1FTFX1ET5CFA67399,wi,44.183316,-88.076488
+7307939612,appleton-oshkosh-FDL,2012.0,ford,f-150,122607.0,clean,automatic,1FTFW1ETXCFB66318,wi,43.790599,-88.446483
+7307151681,green bay,2012.0,ford,f-150,144558.0,clean,automatic,1FTFW1EF8CFC43200,wi,45.09216,-87.64732
+7307138676,green bay,2012.0,ford,f-150,86805.0,clean,automatic,1FTFX1ET5CFA67399,wi,44.183457,-88.076076
+7312294224,kenosha-racine,2012.0,ford,f-150,199829.0,clean,automatic,1FTFW1ET7CFB40887,wi,42.337616,-88.04408
+7316257779,madison,2012.0,ford,f-150,123000.0,clean,automatic,1FTEW1EP7JFA90102,wi,43.670826,-89.464588
+7316362139,milwaukee,2012.0,ford,f-150,106279.0,clean,automatic,,wi,41.5454,-88.1299
+7314869503,milwaukee,2012.0,ford,f-150,86064.0,clean,automatic,1FTFW1ET1CFB97649,wi,42.364188,-87.864796
+7313582948,milwaukee,2012.0,ford,f-150,86064.0,clean,automatic,1FTFW1ET1CFB97649,wi,42.364188,-87.864796
+7311587335,milwaukee,2012.0,ford,f-150,86064.0,clean,automatic,1FTFW1ET1CFB97649,wi,42.364188,-87.864796
+7309288686,milwaukee,2012.0,ford,f-150,86062.0,clean,automatic,1FTFW1ET1CFB97649,wi,42.364188,-87.864796
+7307785908,milwaukee,2012.0,ford,f-150,86062.0,clean,automatic,1FTFW1ET1CFB97649,wi,42.364188,-87.864796
+7316891697,northern WI,2012.0,ford,f-150,188406.0,clean,automatic,1FTFW1ET4CFC98801,wi,45.683596,-92.964836
+7306683508,wausau,2012.0,ford,f-150,177674.0,clean,automatic,1FTFW1ET6CKE16497,wi,44.935677,-89.617256

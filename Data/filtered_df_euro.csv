@@ -1,0 +1,173 @@
+id,region,year,manufacturer,model,odometer,title_status,transmission,VIN,state,lat,long
+7316866296,phoenix,2012.0,volkswagen,jetta sportwagen 2.0l,58144.0,clean,other,3VWPL7AJ6CM698831,az,33.51,-112.36
+7316529922,phoenix,2012.0,volkswagen,jetta tdi,109000.0,clean,automatic,,az,33.6819,-112.0996
+7316183184,phoenix,2012.0,volkswagen,jetta,111493.0,clean,automatic,,az,33.380277,-111.811295
+7313365246,show low,2012.0,volkswagen,jetta,107635.0,clean,automatic,3VWPP7AJ2CM622477,az,34.253329,-110.028694
+7313916695,tucson,2012.0,volkswagen,jetta s,107814.0,clean,manual,3VW1K7AJ0CM339371,az,32.236075,-110.878886
+7311995629,tucson,2012.0,volkswagen,jetta 2.0l tdi,83764.0,clean,automatic,,az,32.267941,-110.977848
+7316268011,fresno / madera,2012.0,volkswagen,jetta,116000.0,clean,automatic,,ca,36.7991,-119.8016
+7313125328,gold country,2012.0,volkswagen,jetta,96000.0,clean,manual,,ca,39.1193,-121.0938
+7315485424,imperial county,2012.0,volkswagen,jetta,130000.0,clean,automatic,,ca,32.6832,-115.5028
+7316587366,los angeles,2012.0,volkswagen,jetta,145925.0,clean,automatic,,ca,33.921543,-118.397212
+7316587191,los angeles,2012.0,volkswagen,jetta,120000.0,clean,manual,,ca,34.2007,-118.5391
+7306931419,palm springs,2012.0,volkswagen,jetta s,114000.0,clean,automatic,3VW2K7AJ0CM371628,ca,33.745144,-116.351803
+7311695950,reno / tahoe,2012.0,volkswagen,jetta 2.5l se,81000.0,clean,automatic,,ca,39.525496,-119.756897
+7314943904,san diego,2012.0,volkswagen,jetta,116000.0,clean,automatic,3VW2K7AJ2CM405343,ca,33.112734,-117.078831
+7314683359,san diego,2012.0,volkswagen,jetta,90000.0,clean,automatic,,ca,32.6084,-117.0565
+7309582582,santa barbara,2012.0,volkswagen,jetta se,120650.0,clean,automatic,,ca,34.6488,-120.1701
+7315025143,santa maria,2012.0,volkswagen,jetta,120650.0,clean,automatic,,ca,34.6488,-120.1701
+7310145927,stockton,2012.0,volkswagen,jetta se,97000.0,clean,automatic,,ca,37.9532,-121.3116
+7305403469,ventura county,2012.0,volkswagen,jetta,101546.0,clean,automatic,,ca,34.3046,-118.6844
+7304480013,colorado springs,2012.0,volkswagen,jetta,129620.0,clean,automatic,3VW2K7AJ0CM353811,co,39.368805,-104.86058
+7316711216,denver,2012.0,volkswagen,jetta sportwagen,98643.0,clean,automatic,3VWPL7AJXCM696015,co,39.645557,-105.02557
+7315968280,denver,2012.0,volkswagen,jetta se,96668.0,clean,automatic,3VWDP7AJXCM309812,co,39.785339,-104.906916
+7315291158,denver,2012.0,volkswagen,jetta,118000.0,clean,automatic,,co,39.55753,-104.814548
+7315250026,denver,2012.0,volkswagen,jetta,58205.0,rebuilt,automatic,,co,39.678655,-104.922009
+7315151900,eastern CT,2012.0,volkswagen,tdi jetta sport wg,191037.0,clean,automatic,3VWPL7AJ3CM636318,ct,41.3253,-72.2108
+7306553201,eastern CT,2012.0,volkswagen,jetta,130000.0,clean,manual,,ct,41.660571,-71.931121
+7313612217,hartford,2012.0,volkswagen,jetta,136000.0,clean,automatic,,ct,41.6867,-72.7908
+7315155028,new haven,2012.0,volkswagen,tdi jetta sport wg,191037.0,clean,automatic,3VWPL7AJ3CM636318,ct,41.3253,-72.2108
+7314270372,"washington, DC",2012.0,volkswagen,jetta 2.5 se,120000.0,clean,manual,,dc,38.9832,-77.0007
+7310015310,ft myers / SW florida,2012.0,volkswagen,jetta,107000.0,lien,manual,,fl,26.9905,-82.0964
+7316205189,jacksonville,2012.0,volkswagen,jetta,96000.0,clean,manual,,fl,30.3031,-81.4404
+7311781644,jacksonville,2012.0,volkswagen,jetta sportwagen,41267.0,clean,automatic,3VWPL7AJ8CM647816,fl,30.348,-81.5882
+7309830758,jacksonville,2012.0,volkswagen,jetta sedan,100673.0,clean,automatic,3VWLP7AJ2CM324106,fl,30.290058,-81.586484
+7309442175,jacksonville,2012.0,volkswagen,jetta,158326.0,clean,automatic,3VWLL7AJ4CM088148,fl,30.2787,-81.5831
+7308221818,jacksonville,2012.0,volkswagen,jetta sedan,100673.0,clean,automatic,3VWLP7AJ2CM324106,fl,30.290058,-81.586484
+7307621497,jacksonville,2012.0,volkswagen,jetta,78669.0,clean,automatic,3VWDX7AJ2CM454875,fl,30.348,-81.5882
+7316859790,south florida,2012.0,volkswagen,jetta,93000.0,clean,automatic,,fl,26.260826,-80.146554
+7316858912,south florida,2012.0,volkswagen,jetta,89000.0,clean,automatic,,fl,26.260826,-80.146554
+7314772676,south florida,2012.0,volkswagen,jetta,93000.0,clean,automatic,,fl,26.260826,-80.146554
+7314492232,south florida,2012.0,volkswagen,jetta,76000.0,rebuilt,automatic,,fl,26.0476,-80.1447
+7316617543,tampa bay area,2012.0,volkswagen,jetta tdi,100000.0,clean,automatic,,fl,28.0096,-82.6967
+7315846743,tampa bay area,2012.0,volkswagen,jetta,168534.0,clean,manual,,fl,28.3011,-82.6927
+7315517955,tampa bay area,2012.0,volkswagen,jetta se pzev,168000.0,clean,manual,,fl,28.3011,-82.6927
+7315203025,tampa bay area,2012.0,volkswagen,jetta,168534.0,clean,manual,,fl,28.3011,-82.6927
+7315004123,treasure coast,2012.0,volkswagen,jetta,103205.0,clean,manual,3VWBP7AJ3CM113539,fl,27.12442,-80.19252
+7314778142,atlanta,2012.0,volkswagen,jetta,104304.0,clean,manual,3VW5A7AJXCM123466,ga,33.2404,-84.2734
+7316502613,hawaii,2012.0,volkswagen,jetta,111126.0,clean,automatic,3VWPP7AJ3CM622763,hi,21.296235,-157.859345
+7315533063,hawaii,2012.0,volkswagen,jetta,111126.0,clean,automatic,3VWPP7AJ3CM622763,hi,21.296235,-157.859345
+7314637893,hawaii,2012.0,volkswagen,jetta,111126.0,clean,automatic,3VWPP7AJ3CM622763,hi,21.296235,-157.859345
+7314109440,hawaii,2012.0,volkswagen,jetta,111126.0,clean,automatic,3VWPP7AJ3CM622763,hi,21.296235,-157.859345
+7313569725,hawaii,2012.0,volkswagen,jetta,111126.0,clean,automatic,3VWPP7AJ3CM622763,hi,21.296235,-157.859345
+7315315264,spokane / coeur d'alene,2012.0,volkswagen,jetta,69784.0,clean,other,3VWPL7AJ4CM631936,id,47.766684,-117.40596
+7314454385,spokane / coeur d'alene,2012.0,volkswagen,jetta,115286.0,clean,automatic,3VWLL7AJ8CM397895,id,47.737767,-117.412158
+7314423413,spokane / coeur d'alene,2012.0,volkswagen,jetta,133286.0,clean,automatic,3VWPL7AJ5CM684788,id,47.23928,-122.38384
+7313692447,twin falls,2012.0,volkswagen,jetta tdi,120000.0,rebuilt,automatic,,id,42.5868,-114.2467
+7316524620,chicago,2012.0,volkswagen,jetta,198000.0,clean,automatic,3VWPL7AJ1CM708147,il,41.6739,-88.0018
+7316444553,chicago,2012.0,volkswagen,jetta,47091.0,clean,other,3VWLX7AJ5CM419856,il,41.850685,-87.761225
+7314055373,chicago,2012.0,volkswagen,jetta,130000.0,clean,automatic,,il,42.666,-88.2749
+7312754946,indianapolis,2012.0,volkswagen,jetta tdi,73000.0,rebuilt,automatic,,in,39.8462,-86.1951
+7309833014,des moines,2012.0,volkswagen,jetta sedan,147000.0,clean,manual,3VW1K7AJ0CM340360,ia,42.484503,-92.324974
+7312934842,omaha / council bluffs,2012.0,volkswagen,jetta sedan,75486.0,clean,automatic,3VWDP7AJ3CM079188,ia,41.1345,-96.2458
+7311856191,omaha / council bluffs,2012.0,volkswagen,jetta sedan,75486.0,clean,automatic,3VWDP7AJ3CM079188,ia,41.1345,-96.2458
+7311818580,omaha / council bluffs,2012.0,volkswagen,jetta sedan,75486.0,clean,automatic,3VWDP7AJ3CM079188,ia,41.1345,-96.2458
+7310986112,omaha / council bluffs,2012.0,volkswagen,jetta sedan,75486.0,clean,automatic,3VWDP7AJ3CM079188,ia,41.1345,-96.2458
+7309900938,omaha / council bluffs,2012.0,volkswagen,jetta sedan,75486.0,clean,automatic,3VWDP7AJ3CM079188,ia,41.1345,-96.2458
+7309843188,waterloo / cedar falls,2012.0,volkswagen,jetta sedan,147000.0,clean,manual,3VW1K7AJ0CM340360,ia,42.484503,-92.324974
+7314953529,"kansas city, MO",2012.0,volkswagen,jetta sportwagen tdi,92000.0,clean,automatic,,ks,39.0545,-94.4039
+7312936215,"kansas city, MO",2012.0,volkswagen,jetta sedan,75486.0,clean,automatic,3VWDP7AJ3CM079188,ks,41.1345,-96.2458
+7313873508,louisville,2012.0,volkswagen,jetta sportswagen,154865.0,clean,automatic,,ky,38.159396,-85.659714
+7316711065,maine,2012.0,volkswagen,jetta gli,119000.0,clean,automatic,,me,43.7958,-70.4143
+7314970985,maine,2012.0,volkswagen,jetta,152000.0,clean,automatic,,me,43.9062,-69.8266
+7308154978,maine,2012.0,volkswagen,jetta,152000.0,clean,automatic,,me,43.9062,-69.8266
+7307681514,maine,2012.0,volkswagen,jetta sportwagen tdi,108000.0,clean,automatic,3VWPL7AJ8CM680976,me,44.07116,-70.24399
+7315744591,boston,2012.0,volkswagen,jetta,113000.0,clean,automatic,,ma,42.2918,-71.0717
+7314570829,boston,2012.0,volkswagen,jetta,106641.0,clean,automatic,3VWDP7AJXCM078653,ma,42.023457,-71.142876
+7314526473,boston,2012.0,volkswagen,jetta,106641.0,clean,automatic,3VWDP7AJXCM078653,ma,42.023457,-71.142876
+7304225547,worcester / central MA,2012.0,volkswagen,jetta,77000.0,rebuilt,automatic,3VWPL7AJ8CM675244,ma,42.0521,-71.8486
+7308013001,ann arbor,2012.0,volkswagen,jetta 2.5,89500.0,clean,automatic,,mi,42.309973,-83.717111
+7308196336,grand rapids,2012.0,volkswagen,jetta,121036.0,clean,automatic,3VWDX7AJ6CM115150,mi,42.908112,-85.666206
+7303572029,grand rapids,2012.0,volkswagen,jetta,121036.0,clean,automatic,3VWDX7AJ6CM115150,mi,42.908112,-85.666206
+7301693994,northern michigan,2012.0,volkswagen,jetta se,67000.0,clean,manual,,mi,45.3559,-84.9133
+7307153870,mankato,2012.0,volkswagen,jetta 2.0l tdi sedan,92242.0,clean,automatic,3VWLL7AJ3CM360138,mn,44.16,-93.99
+7316011838,minneapolis / st paul,2012.0,volkswagen,jetta,110463.0,clean,manual,,mn,44.7609,-93.2753
+7315568300,minneapolis / st paul,2012.0,volkswagen,jetta tdi,203084.0,clean,automatic,3VWAL7AJ1AM084465,mn,45.1288,-92.535
+7315175481,minneapolis / st paul,2012.0,volkswagen,jetta tdi,112000.0,clean,automatic,,mn,45.1284,-93.4589
+7315826834,st cloud,2012.0,volkswagen,jetta sportwagen,111316.0,clean,automatic,,mn,45.6505,-95.3898
+7315594197,missoula,2012.0,volkswagen,jetta tdi,83068.0,clean,manual,,mt,46.843188,-114.004475
+7308767517,charlotte,2012.0,volkswagen,jetta,97263.0,clean,automatic,3VW2K7AJ3CM309947,nc,35.48163,-81.19259
+7315636221,greensboro,2012.0,volkswagen,jetta,124000.0,clean,automatic,,nc,36.1032,-79.8794
+7303151340,hickory / lenoir,2012.0,volkswagen,jetta,97263.0,clean,automatic,3VW2K7AJ3CM309947,nc,35.48163,-81.19259
+7314524838,raleigh / durham / CH,2012.0,volkswagen,jetta,141594.0,clean,automatic,3VWDX7AJ9CM315634,nc,35.732847,-78.850136
+7316756093,winston-salem,2012.0,volkswagen,jetta,97263.0,clean,automatic,3VW2K7AJ3CM309947,nc,35.48163,-81.19259
+7316872662,las vegas,2012.0,volkswagen,jetta se,133183.0,clean,automatic,,nv,36.1433,-115.2004
+7316370640,las vegas,2012.0,volkswagen,jetta se,133183.0,clean,automatic,,nv,36.1433,-115.2004
+7310365377,central NJ,2012.0,volkswagen,jetta,187181.0,clean,automatic,3VWDP7AJ0CM387757,nj,40.18157,-74.663384
+7310372075,jersey shore,2012.0,volkswagen,jetta,103000.0,clean,automatic,3VWDP7AJ5CM119464,nj,40.085,-74.2042
+7314781346,north jersey,2012.0,volkswagen,jetta,129962.0,clean,manual,3VW1K7AJ4CM382272,nj,40.9952,-73.9582
+7313467570,north jersey,2012.0,volkswagen,jetta,142000.0,clean,manual,,nj,40.9931,-74.3088
+7310549696,north jersey,2012.0,volkswagen,jetta,187181.0,clean,automatic,3VWDP7AJ0CM387757,nj,40.18157,-74.663384
+7310267312,south jersey,2012.0,volkswagen,jetta,187181.0,clean,automatic,3VWDP7AJ0CM387757,nj,40.18157,-74.663384
+7308961101,south jersey,2012.0,volkswagen,jetta sel,180000.0,clean,automatic,,nj,39.8036,-75.0058
+7303311940,albany,2012.0,volkswagen,jetta tdi,76391.0,clean,automatic,3VWLL7AJ0CM359268,ny,42.675374,-73.784585
+7307001317,binghamton,2012.0,volkswagen,jetta sedan,119583.0,clean,automatic,3VWDP7AJ0CM458391,ny,42.06739,-76.10633
+7314004790,buffalo,2012.0,volkswagen,jetta,127365.0,clean,automatic,3VWDP7AJ2CM330007,ny,42.897294,-78.697401
+7310706021,buffalo,2012.0,volkswagen,jetta sportwagen,92000.0,clean,automatic,,ny,42.9685,-78.7492
+7310117400,buffalo,2012.0,volkswagen,jetta,127365.0,clean,automatic,3VWDP7AJ2CM330007,ny,42.897294,-78.697401
+7306993708,buffalo,2012.0,volkswagen,jetta,127365.0,clean,automatic,3VWDP7AJ2CM330007,ny,42.897294,-78.697401
+7304605072,buffalo,2012.0,volkswagen,jetta,127365.0,clean,automatic,3VWDP7AJ2CM330007,ny,42.897294,-78.697401
+7301853055,buffalo,2012.0,volkswagen,jetta,127365.0,clean,automatic,3VWDP7AJ2CM330007,ny,42.897294,-78.697401
+7316124071,hudson valley,2012.0,volkswagen,jetta,149000.0,clean,manual,3VWBP7AJ5CM106446,ny,41.595,-73.8876
+7316681565,long island,2012.0,volkswagen,jetta se,69769.0,clean,automatic,,ny,40.7557,-73.5723
+7315150591,new york city,2012.0,volkswagen,tdi jetta sport,191037.0,clean,automatic,3VWPL7AJ3CM636318,ny,41.3253,-72.2108
+7314805453,new york city,2012.0,volkswagen,jetta,97612.0,clean,manual,3VW1K7AJXCM427943,ny,40.694809,-73.89784
+7310706804,rochester,2012.0,volkswagen,jetta sportwagen,92000.0,clean,automatic,,ny,42.9685,-78.7492
+7315878126,watertown,2012.0,volkswagen,jetta sportwagen tdi,84200.0,clean,automatic,3VWPL7AJ9CM625193,ny,43.7893,-75.4156
+7316679350,new hampshire,2012.0,volkswagen,jetta tdi,115000.0,clean,manual,,nh,43.5103,-72.1334
+7304372656,cleveland,2012.0,volkswagen,jetta,49545.0,clean,automatic,3VWDP7AJ9CM302172,oh,41.47642,-81.72344
+7316055871,columbus,2012.0,volkswagen,jetta 2.5 se,151570.0,clean,automatic,,oh,40.0226,-83.0776
+7313775335,columbus,2012.0,volkswagen,jetta sedan,73928.0,clean,automatic,,oh,40.064137,-82.998073
+7308179583,columbus,2012.0,volkswagen,jetta 2.5l sel sedan,70508.0,clean,automatic,3VWLP7AJ1CM301190,oh,39.98,-82.98
+7305721105,columbus,2012.0,volkswagen,jetta sedan,73928.0,clean,automatic,,oh,40.064137,-82.998073
+7310876349,youngstown,2012.0,volkswagen,jetta,213000.0,clean,manual,,oh,41.3251,-80.7327
+7316375371,bend,2012.0,volkswagen,jetta,78327.0,clean,automatic,,or,44.308214,-120.848098
+7314004461,bend,2012.0,volkswagen,jetta,145000.0,clean,automatic,,or,44.2767,-121.1896
+7313118372,bend,2012.0,volkswagen,jetta,147000.0,clean,automatic,,or,44.0223,-121.2985
+7315022099,eugene,2012.0,volkswagen,jetta se pzev local car,100482.0,clean,automatic,3VWDP7AJ9CM311647,or,45.389971,-122.611386
+7314473477,eugene,2012.0,volkswagen,jetta,108000.0,clean,automatic,,or,44.1445,-123.0545
+7314139289,eugene,2012.0,volkswagen,jetta se pzev *automatic *leather *moon roof local car,100458.0,clean,automatic,3VWDP7AJ9CM311647,or,45.389971,-122.611386
+7312172552,medford-ashland,2012.0,volkswagen,jetta sedan,140291.0,clean,automatic,3VWDP7AJXCM320485,or,42.42807,-123.330875
+7307472971,medford-ashland,2012.0,volkswagen,jetta sedan,140291.0,clean,automatic,3VWDP7AJXCM320485,or,42.42807,-123.330875
+7316824450,portland,2012.0,volkswagen,jetta se pzev,89903.0,clean,automatic,3VWDP7AJ5CM314612,or,45.426823,-122.633445
+7315313247,salem,2012.0,volkswagen,jetta sportwagen 4dr,70572.0,clean,automatic,3VWPL7AJ0CM711203,or,44.973187,-123.018138
+7314614680,salem,2012.0,volkswagen,jetta sedan,76000.0,clean,manual,3VW1K7AJ0CM365372,or,44.943966,-122.991841
+7313507680,salem,2012.0,volkswagen,jetta,64204.0,clean,automatic,3VWDP7AJ7CM337471,or,44.957008,-123.019959
+7310265759,philadelphia,2012.0,volkswagen,jetta,187181.0,clean,automatic,3VWDP7AJ0CM387757,pa,40.18157,-74.663384
+7307206355,pittsburgh,2012.0,volkswagen,jetta 2.0l tdi sedan,92242.0,clean,automatic,3VWLL7AJ3CM360138,pa,40.43,-79.97
+7316849540,rhode island,2012.0,volkswagen,jetta,180000.0,clean,automatic,,ri,41.8425,-71.3559
+7314064696,charleston,2012.0,volkswagen,jetta,180000.0,clean,automatic,,sc,32.828621,-80.041788
+7314898738,columbia,2012.0,volkswagen,jetta,104000.0,clean,automatic,,sc,33.995,-81.0888
+7313309298,greenville / upstate,2012.0,volkswagen,jetta,67051.0,clean,automatic,3VWPL7AJ6CM670432,sc,34.96026,-82.010826
+7312280616,greenville / upstate,2012.0,volkswagen,jetta,67051.0,clean,automatic,3VWPL7AJ6CM670432,sc,34.96026,-82.010826
+7308149456,memphis,2012.0,volkswagen,jetta,163401.0,clean,automatic,,tn,35.025913,-89.788637
+7316737242,nashville,2012.0,volkswagen,jetta sportwagen,82529.0,clean,automatic,3VWPL7AJXCM614316,tn,36.22587,-86.540982
+7311968815,nashville,2012.0,volkswagen,jetta sportwagen,82529.0,clean,automatic,3VWPL7AJXCM614316,tn,36.22587,-86.540982
+7316247342,austin,2012.0,volkswagen,jetta,86840.0,clean,manual,3VW1K7AJ0CM387310,tx,30.48148,-97.585482
+7314768866,austin,2012.0,volkswagen,jetta sportwagen 2.0l,58144.0,clean,other,3VWPL7AJ6CM698831,tx,30.26,-97.74
+7316043839,dallas / fort worth,2012.0,volkswagen,jetta,131000.0,clean,automatic,,tx,32.871848,-96.77052
+7315114368,dallas / fort worth,2012.0,volkswagen,jetta,128984.0,clean,automatic,,tx,33.050725,-96.974623
+7315035833,dallas / fort worth,2012.0,volkswagen,jetta tdi,70000.0,clean,automatic,3VWPL7AJ3CM611080,tx,32.932064,-96.745906
+7302354678,mcallen / edinburg,2012.0,volkswagen,jetta,145000.0,clean,automatic,,tx,26.1771,-98.252
+7316578853,san antonio,2012.0,volkswagen,jetta,113000.0,clean,automatic,3VW2K7AJ8CM320071,tx,29.572059,-98.631515
+7316078232,san antonio,2012.0,volkswagen,jetta wagon,96500.0,clean,automatic,3VWPL7AJ2CM612236,tx,29.5334,-98.4975
+7315740909,san antonio,2012.0,volkswagen,jetta,186000.0,clean,automatic,,tx,29.5563,-98.3643
+7313812895,san antonio,2012.0,volkswagen,jetta sedan 4dr auto se w/convenience,94754.0,clean,automatic,3VWDX7AJ2CM355263,tx,29.529409,-98.496166
+7310636138,san antonio,2012.0,volkswagen,jetta,124551.0,clean,manual,3VWBP7AJ2CM110485,tx,29.4973,-98.4252
+7314116480,tyler / east TX,2012.0,volkswagen,jetta se,149000.0,clean,automatic,,tx,32.158466,-95.456429
+7304356831,vermont,2012.0,volkswagen,jetta,143154.0,clean,automatic,3VWDP7AJ4CM406276,vt,43.323686,-72.508351
+7304705291,new river valley,2012.0,volkswagen,jetta sedan se,123492.0,clean,automatic,3VWDP7AJ6CM322959,va,37.13301,-80.413241
+7314141805,norfolk / hampton roads,2012.0,volkswagen,jetta,121000.0,clean,manual,3VWDP7AJ9CM109276,va,36.8711,-76.1717
+7311636978,roanoke,2012.0,volkswagen,jetta,154673.0,clean,automatic,,va,37.272429,-79.949997
+7313332200,kennewick-pasco-richland,2012.0,volkswagen,jetta,73435.0,clean,automatic,3VWPL7AJ6CM676277,wa,47.629296,-117.254657
+7316967161,seattle-tacoma,2012.0,volkswagen,jetta,152546.0,clean,automatic,3VWDP7AJ4CM337007,wa,47.4889,-122.3012
+7316833452,seattle-tacoma,2012.0,volkswagen,jetta,103626.0,clean,automatic,3VWLL7AJ2CM397309,wa,47.746406,-122.651578
+7316632500,seattle-tacoma,2012.0,volkswagen,jetta,99991.0,clean,automatic,,wa,47.645246,-122.217903
+7316401806,seattle-tacoma,2012.0,volkswagen,jetta,104715.0,clean,automatic,3VWPP7AJ9CM630270,wa,47.313584,-122.225521
+7304957016,yakima,2012.0,volkswagen,jetta,98864.0,clean,automatic,,wa,46.552949,-120.475274
+7307194151,eau claire,2012.0,volkswagen,jetta 2.0l tdi sedan,92242.0,clean,automatic,3VWLL7AJ3CM360138,wi,44.82,-91.49
+7316757534,madison,2012.0,volkswagen,jetta,107838.0,clean,manual,3VWBP7AJ9CM324955,wi,43.0372,-89.3971
+7311764101,madison,2012.0,volkswagen,jetta,104152.0,clean,automatic,3VWDP7AJXCM332829,wi,43.013722,-88.808027
+7308158705,madison,2012.0,volkswagen,jetta,104152.0,clean,automatic,3VWDP7AJXCM332829,wi,43.013722,-88.808027
+7306402678,madison,2012.0,volkswagen,jetta sedan,135402.0,clean,automatic,3VWLL7AJ2CM381563,wi,42.970214,-90.112347
+7314319132,milwaukee,2012.0,volkswagen,jetta,110000.0,clean,manual,,wi,42.666,-88.2749
