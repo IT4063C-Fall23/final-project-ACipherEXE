@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # {Project Title}📝
+# # The risks of used cars being sold with defects📝
 # 
 # ![Banner](./assets/banner.jpeg)
 
@@ -56,13 +56,13 @@
 # 
 # First I want to concentrate of how many one popular brand and model of a certain year from each region US, Asian and Euro manufactures. Then look at each of their popular models and look for a list of defects that has been reported by the NHTSA. Then check how many are being on sale currently per state with the kaggle dataset. Then see how many reports of a model has been made by the last 5 years.
 
-# In[110]:
+# In[2]:
 
 
 # Start your code here
 
 
-# In[111]:
+# In[3]:
 
 
 import requests
@@ -82,7 +82,7 @@ response_asian_data = pd.DataFrame(response_asian.json()['results'])
 response_asian_data.head()
 
 
-# In[112]:
+# In[4]:
 
 
 # the best selling American car so far is the Ford F-Series in the US. Becuse there is multiple versions ill use the F-150 as a common truck.
@@ -97,7 +97,7 @@ response_us_data = pd.DataFrame(response_us.json()['results'])
 response_us_data.head()
 
 
-# In[113]:
+# In[5]:
 
 
 # Euro cars are a lot smaller in the market but they are possible to find
@@ -114,7 +114,7 @@ response_euro_data = pd.DataFrame(response_euro.json()['results'])
 response_euro_data.head()
 
 
-# In[114]:
+# In[6]:
 
 
 # You will have to download the kaggle data set as its too big for git
@@ -139,7 +139,7 @@ sales_df = pd.read_csv('Data/vehicles.csv')
 sales_df.tail()
 
 
-# In[115]:
+# In[7]:
 
 
 # Remove unessary data like url, region_url, price, condition, cylinders, size, paint_color, image_url, description, posting_date, 'fuel, drive
@@ -148,7 +148,7 @@ sales_df_fixed = sales_df.drop(['url','region_url','price','condition','cylinder
 sales_df_fixed.tail()
 
 
-# In[116]:
+# In[8]:
 
 
 # Get all honda accords from 2012
@@ -156,7 +156,7 @@ filtered_df_aisan = sales_df_fixed[(sales_df_fixed['manufacturer'] == 'honda') &
 filtered_df_aisan.tail()
 
 
-# In[117]:
+# In[9]:
 
 
 # Get all ford f-150s from 2012
@@ -164,7 +164,7 @@ filtered_df_american = sales_df_fixed[(sales_df_fixed['manufacturer'] == 'ford')
 filtered_df_american.tail()
 
 
-# In[118]:
+# In[10]:
 
 
 # Get all volkswagen jettas from 2012
@@ -178,7 +178,7 @@ filtered_df_euro.tail()
 
 
 
-# In[119]:
+# In[11]:
 
 
 #save the data into a CSV and open it for testing
@@ -187,28 +187,28 @@ filtered_df_american.to_csv('Data/filtered_df_american.csv', index=False)
 filtered_df_euro.to_csv('Data/filtered_df_euro.csv', index=False)
 
 
-# In[120]:
+# In[12]:
 
 
 asian_cars_on_sale = pd.read_csv('Data/filtered_df_aisan.csv')
 asian_cars_on_sale.head()
 
 
-# In[121]:
+# In[13]:
 
 
 american_cars_on_sale = pd.read_csv('Data/filtered_df_american.csv')
 american_cars_on_sale.head()
 
 
-# In[122]:
+# In[14]:
 
 
 euro_cars_on_sale = pd.read_csv('Data/filtered_df_euro.csv')
 euro_cars_on_sale.head()
 
 
-# In[123]:
+# In[60]:
 
 
 # Now I need to set up the api for reports made by NHTSA currently about these three models
@@ -225,7 +225,7 @@ complaints_asian_data.head()
 
 # That the Accord has a total of 354 complaints
 
-# In[124]:
+# In[16]:
 
 
 complaints_params_american = {
@@ -241,7 +241,7 @@ complaints_american_data.head()
 
 # The f-150 does not seem to have complaints
 
-# In[125]:
+# In[17]:
 
 
 complaints_params_euro = {
@@ -266,7 +266,7 @@ complaints_euro_data.head()
 
 # Lets first build a map of all the cars in the us useing the long and lat.
 
-# In[126]:
+# In[18]:
 
 
 import folium
@@ -290,7 +290,7 @@ map_object
 # But suddenly I started thinking how many vins from the creglist can I find hits with complaints in the NHTSA?
 # Because there is no complaints in the F-150 we will skip them
 
-# In[127]:
+# In[19]:
 
 
 map_object = folium.Map(location=[39.8283, -98.5795], zoom_start=4)
@@ -309,7 +309,7 @@ map_object
 
 # But lets find out then what is the most common Consequence a recall could avoid. Just to get a idea of what is the worse thing it could happen if the car is not remedied.  
 
-# In[128]:
+# In[20]:
 
 
 #I want to see what the most common recall of the three cars are? I belive a word cloud could get a awnser to that quesion
@@ -340,7 +340,7 @@ plt.show()
 # 
 # Lets compare it to complaints to see if owners are affected
 
-# In[129]:
+# In[21]:
 
 
 affected_asian = ' '.join(complaints_asian_data['summary'].astype(str))
@@ -365,6 +365,48 @@ plt.show()
 
 # Well airbags are really chemical grenades that try to save you from impact but at the same time they could case burns, neck pains and other injurys.
 
+# Now the question is how do we use machine learning on this data. I belive I suck at this part but I will do my best to figure it out. 
+
+# Lets say we wanted to know how many more will be put for sale
+
+# In[64]:
+
+
+complaints_asian_data.hist(bins= 50, figsize=(20,15))
+
+
+# In[70]:
+
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+
+selected_columns = ['manufacturer', 'crash', 'fire', 'components', 'numberOfInjuries']
+
+selected_data = complaints_asian_data[selected_columns]
+
+selected_data = pd.get_dummies(selected_data, columns=['manufacturer', 'components'])
+
+X = selected_data.drop('numberOfInjuries', axis=1)
+y = selected_data['numberOfInjuries']
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+model = LinearRegression()
+
+model.fit(X_train, y_train)
+
+# Predict on the test set
+y_pred = model.predict(X_test)
+
+mse = mean_squared_error(y_test, y_pred)
+print(f"Mean Squared Error: {mse}")
+
+
+# 
+
 # ## Resources and References
 # *What resources and references have you used for this project?*
 # 📝 <!-- Answer Below -->
@@ -383,7 +425,7 @@ plt.show()
 # 
 # 
 
-# In[131]:
+# In[1]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
